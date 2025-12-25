@@ -1,0 +1,37 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist
+.next
+out
+build
+
+# Git
+.git
+.gitignore
+
+# Environment & Secrets
+.env
+.env.local
+.env.production
+.env.development
+
+# Documentation & Local Config
+README.md
+.github
+.vscode
+.idea
+.DS_Store
+
+# Ignore large datasets or media (if not needed for build)
+*.mp4
+*.MP4
+*.zip
+*.tgz
+*.JPG
+*.jpg
+*.JPEG
+*.jpeg

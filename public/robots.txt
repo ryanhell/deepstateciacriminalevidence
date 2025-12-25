@@ -1,0 +1,12 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /private
+
+# Host
+Host: https://ryanhellfacts.com
+
+# Sitemaps
+Sitemap: https://ryanhellfacts.com/sitemap.xml

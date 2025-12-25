@@ -1,0 +1,1754 @@
+[
+    {
+        "path": ".",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-08T09:37:13.151477308+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/."
+    },
+    {
+        "path": "./generate_list.sh",
+        "size": 2444,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:57:04.795057177+00:00",
+        "permissions": "-rwxrwxr-x",
+        "fullpath": "/var/www/evidence/./generate_list.sh"
+    },
+    {
+        "path": "./MyPersonalLegalEfforts",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T19:03:05.008013635+00:00",
+        "permissions": "drwxrwxr-x",
+        "fullpath": "/var/www/evidence/./MyPersonalLegalEfforts"
+    },
+    {
+        "path": "./MyPersonalLegalEfforts/CivilRightsIntakeDoJ.pdf",
+        "size": 141306,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:55:04.493217849+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MyPersonalLegalEfforts/CivilRightsIntakeDoJ.pdf"
+    },
+    {
+        "path": "./MyPersonalLegalEfforts/MyMotionToPreserveEvidenceWhichWasDenied.pdf",
+        "size": 275091,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:38:50.576840586+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MyPersonalLegalEfforts/MyMotionToPreserveEvidenceWhichWasDenied.pdf"
+    },
+    {
+        "path": "./MyPersonalLegalEfforts/JudgemyMotionToDismissCaseAlsoRefusedbyJordanChelan.jpg",
+        "size": 83655,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:53:56.671099052+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MyPersonalLegalEfforts/JudgemyMotionToDismissCaseAlsoRefusedbyJordanChelan.jpg"
+    },
+    {
+        "path": "./MyPersonalLegalEfforts/motionToDismiss_RyanHellChelanCounty.pdf",
+        "size": 51581,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:53:19.332864214+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MyPersonalLegalEfforts/motionToDismiss_RyanHellChelanCounty.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T18:20:55.540859732+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Hell, Ryan.zip.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:23:21.872951706+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Hell, Ryan.zip.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Hell, Ryan.zip.download/Info.plist",
+        "size": 1102,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:23:22.345957026+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Hell, Ryan.zip.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:24:16.864569717+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 4.24.55 PM.png",
+        "size": 49045,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:24:16.056560643+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 4.24.55 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:54.022944334+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist",
+        "size": 1193,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:54.434948817+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-6.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:55.232957502+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-6.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-6.download/Info.plist",
+        "size": 1205,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:55.643961975+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-6.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-5.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:51.340915147+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-5.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-5.download/Info.plist",
+        "size": 1205,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:51.751919619+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-5.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.46.46 PM.png",
+        "size": 106357,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:23:21.004941943+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.46.46 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-25 at 4.47.26 PM.png",
+        "size": 97486,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:23:23.847973918+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-25 at 4.47.26 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-25 at 4.45.53 PM.png",
+        "size": 97608,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:24:14.042538023+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-25 at 4.45.53 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.43.05 PM.png",
+        "size": 287025,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:24:17.984582294+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.43.05 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 11.03.44 AM.png",
+        "size": 7363924,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:24:12.622522075+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 11.03.44 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-2.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:53.102934321+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-2.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-2.download/Info.plist",
+        "size": 1195,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:53.523938903+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-2.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-3.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:52.683929761+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-3.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-3.download/Info.plist",
+        "size": 1203,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:53.126934582+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-3.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 10.59.45 AM.png",
+        "size": 6957152,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:23:42.450183064+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 10.59.45 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.47.54 PM.png",
+        "size": 125568,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:22:58.757691654+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.47.54 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 11.03.45 AM.png",
+        "size": 7442051,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:23:19.459924566+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 11.03.45 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-7.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:54.414948599+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-7.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-7.download/Info.plist",
+        "size": 1203,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:54.852953366+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-7.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/XX_ZachBrunner_202407041759_1310_67642683.mp4.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:55.685962432+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/XX_ZachBrunner_202407041759_1310_67642683.mp4.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/zac/XX_ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist",
+        "size": 1206,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:56.143967416+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/zac/XX_ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Hell, Ryan",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T10:51:58.800413375+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Hell, Ryan"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165252_Gallery.jpg",
+        "size": 850469,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:51:58.128406329+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165252_Gallery.jpg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165748_Gallery.jpg",
+        "size": 656591,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:52:00.233428399+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165748_Gallery.jpg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165756_Gallery.jpg",
+        "size": 689710,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:51:57.957404536+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165756_Gallery.jpg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165436_Gallery.jpg",
+        "size": 533521,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:51:56.084384898+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165436_Gallery.jpg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165352_Gallery.jpg",
+        "size": 542007,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:52:00.156427592+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165352_Gallery.jpg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-6.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:22:56.715668675+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-6.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-6.download/Info.plist",
+        "size": 1192,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:22:57.128673322+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-6.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/Untitled.jpg",
+        "size": 992562,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:59:02.118428761+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/Untitled.jpg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709___unkmnownVER.mp4",
+        "size": 468065077,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:22:54.399642608+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709___unkmnownVER.mp4"
+    },
+    {
+        "path": "./Dropbox_11-20-25/videoTranscripts",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T10:51:43.723255281+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/videoTranscripts"
+    },
+    {
+        "path": "./Dropbox_11-20-25/file.html",
+        "size": 1005,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:58:47.893230967+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/file.html"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-2.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T10:53:05.778115261+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-2.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-2.download/Info.plist",
+        "size": 1191,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:06.320120939+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-2.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-3.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T10:53:04.401100837+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-3.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-3.download/Info.plist",
+        "size": 1192,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:04.798104996+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-3.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683-2.mp4",
+        "size": 591794910,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:34:07.261052790+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683-2.mp4"
+    },
+    {
+        "path": "./Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709.mp4",
+        "size": 468065077,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:20:55.711304219+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709.mp4"
+    },
+    {
+        "path": "./Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709-2.mp4",
+        "size": 604860773,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:14.942867852+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709-2.mp4"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T18:19:32.724327907+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/24C06391.pdf",
+        "size": 95769,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:51:58.014405134+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/24C06391.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:46.491862386+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/BandTTowSSNoticeofDissolutioin.pdf",
+        "size": 122876,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:18.890265759+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/BandTTowSSNoticeofDissolutioin.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6456.JPG",
+        "size": 4597524,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:41.559808731+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6456.JPG"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6441.JPG",
+        "size": 5288912,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:50.370904593+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6441.JPG"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-08 at 7.51.39 AM.png",
+        "size": 4169354,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:15.974233067+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-08 at 7.51.39 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-20 at 3.23.16 PM.png",
+        "size": 155919,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:55.895680562+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-20 at 3.23.16 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6446.JPG",
+        "size": 624864,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:18.417557076+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6446.JPG"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg",
+        "size": 61998,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:06.199773042+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Search results - ryanbrooklyn2020@gmail.com - Gmail copy.jpg",
+        "size": 220821,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:31.670409054+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Search results - ryanbrooklyn2020@gmail.com - Gmail copy.jpg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.17 AM.png",
+        "size": 4575611,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:28.789669842+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.17 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/cad.pdf",
+        "size": 224995,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:42.866170858+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/cad.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Chelan_2410025304_PoliceReportWork.pdf",
+        "size": 9868068,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:36.980106961+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Chelan_2410025304_PoliceReportWork.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/truckLicensinf.png",
+        "size": 289906,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:47.608874540+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/truckLicensinf.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.02 AM.png",
+        "size": 3277185,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:29.342382954+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.02 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/20240704_173916.json-metadata.pdf",
+        "size": 284631,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:57.808333127+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/20240704_173916.json-metadata.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.10 AM.png",
+        "size": 5195143,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:50.034614886+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.10 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/F2660D94-5517-44E8-A863-48EB6CFA51E3_1_102_a copy.jpeg",
+        "size": 690877,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:40.241142361+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/F2660D94-5517-44E8-A863-48EB6CFA51E3_1_102_a copy.jpeg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6452.JPG",
+        "size": 4856193,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:30.219685393+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6452.JPG"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6453.JPG",
+        "size": 4604523,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:14.592515500+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6453.JPG"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-02 at 12.49.10 PM.png",
+        "size": 357645,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:03.453092625+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-02 at 12.49.10 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.09.37 AM.png",
+        "size": 133458,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:17.391545924+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.09.37 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-20 at 1.52.30 PM.png",
+        "size": 538211,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:57.498329761+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-20 at 1.52.30 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/illegal.jpg",
+        "size": 572824,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:54.287662544+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/illegal.jpg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 12.49.04 AM.png",
+        "size": 1593929,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:48.232229124+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 12.49.04 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-08 at 8.44.16 AM.png",
+        "size": 4437183,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:24:28.695702561+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-08 at 8.44.16 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Exhinbit_A.pdf",
+        "size": 50002,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:07.735789696+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Exhinbit_A.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/96FEA413-BFCC-4ED4-B644-89FA5749A714.PDF",
+        "size": 122099,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:57.444697918+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/96FEA413-BFCC-4ED4-B644-89FA5749A714.PDF"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/78BE6AB2-B6D8-4B7B-A7BB-ECE8146279EC.jpeg",
+        "size": 42911,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:24:59.767051271+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/78BE6AB2-B6D8-4B7B-A7BB-ECE8146279EC.jpeg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/3C6B13AC-EA4A-4FEA-A057-9065662413F7_1_102_a copy.jpeg",
+        "size": 1004574,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:55.399306962+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/3C6B13AC-EA4A-4FEA-A057-9065662413F7_1_102_a copy.jpeg"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6449.JPG",
+        "size": 2204876,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:26:08.796825097+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6449.JPG"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/3dToolUsed.pdf",
+        "size": 2995701,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:41.060151252+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/3dToolUsed.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.22.40 AM.png",
+        "size": 3808304,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:51.773267578+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.22.40 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.06 AM.png",
+        "size": 4665620,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:03.936748507+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.06 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 12.45.32 AM.png",
+        "size": 1588802,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:38.229772508+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 12.45.32 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-05 at 2.45.20 AM.png",
+        "size": 1046579,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:45.641853144+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-05 at 2.45.20 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.08 AM.png",
+        "size": 4681540,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:26:52.005308909+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.08 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 1.52.53 AM.png",
+        "size": 487029,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:33.503721107+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 1.52.53 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/ChelanSheriffs.pdf",
+        "size": 9862112,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:24:57.696028035+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/ChelanSheriffs.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.15.57 AM.png",
+        "size": 407094,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:16.920889305+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.15.57 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-18 at 9.45.24 PM copy.png",
+        "size": 4396922,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:31.677049404+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-18 at 9.45.24 PM copy.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/ChelanCountySheriff_2410025304.pdf",
+        "size": 9868068,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:28:23.765313343+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/ChelanCountySheriff_2410025304.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-16 at 3.06.56 PM.png",
+        "size": 365127,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:28:28.714366915+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-16 at 3.06.56 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-16 at 3.06.34 PM.png",
+        "size": 323285,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:54.359295665+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-16 at 3.06.34 PM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6447.JPG",
+        "size": 4513511,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:14.612515718+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/IMG_6447.JPG"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.01.17 AM.png",
+        "size": 230220,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:26:11.213852172+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.01.17 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/motionToDismiss_RyanHellChelanCounty.pdf",
+        "size": 51581,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:29:50.667255573+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/motionToDismiss_RyanHellChelanCounty.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 2.27.50 AM.png",
+        "size": 64157,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:25:51.582632233+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 2.27.50 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.20.32 AM.png",
+        "size": 89075,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:30.959693442+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.20.32 AM.png"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/vids",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T10:51:47.926299354+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/vids"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/vids/ZachBrunner_202407041759_1310_67642683.mp4.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:30:56.472970997+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/vids/ZachBrunner_202407041759_1310_67642683.mp4.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/vids/ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist",
+        "size": 1199,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:30:56.927975948+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/vids/ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/ZachBrunner_202407041759_1310_67642683-2.mp4",
+        "size": 591794910,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:37:35.479334316+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/ZachBrunner_202407041759_1310_67642683-2.mp4"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/24C06401_R.pdf",
+        "size": 223243,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:52:01.296439544+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/24C06401_R.pdf"
+    },
+    {
+        "path": "./Dropbox_11-20-25/PRR/24C06401.wav",
+        "size": 39462446,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:03.632092782+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/PRR/24C06401.wav"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-7.download",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T11:22:55.358653401+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-7.download"
+    },
+    {
+        "path": "./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-7.download/Info.plist",
+        "size": 1192,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:22:55.796658331+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-7.download/Info.plist"
+    },
+    {
+        "path": "./ChelanVideos",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T18:16:46.636529400+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ChelanVideos"
+    },
+    {
+        "path": "./ChelanVideos/20240704_174521.mp4",
+        "size": 1802240,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:57:10.906085143+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/20240704_174521.mp4"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T14:15:45.570904928+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/20240704_174521.mp4",
+        "size": 124673658,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:21:59.280585201+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/20240704_174521.mp4"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/Screenshot_20240705_165252_Gallery.jpg",
+        "size": 850469,
+        "type": "regular file",
+        "mtime": "2025-12-02T11:06:57.333557295+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/Screenshot_20240705_165252_Gallery.jpg"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/Screenshot_20240705_165748_Gallery.jpg",
+        "size": 656591,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:15:49.707950093+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/Screenshot_20240705_165748_Gallery.jpg"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/Screenshot_20240705_165756_Gallery.jpg",
+        "size": 689710,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:15:49.887952059+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/Screenshot_20240705_165756_Gallery.jpg"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/Screenshot_20240705_165436_Gallery.jpg",
+        "size": 533521,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:15:48.990942265+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/Screenshot_20240705_165436_Gallery.jpg"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/20240704_173916.mp4",
+        "size": 107034115,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:21:22.338778311+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/20240704_173916.mp4"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/AdamMusgrove_202407041734_1274_27294709-2.mp4",
+        "size": 604860773,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:38:39.049560523+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/AdamMusgrove_202407041734_1274_27294709-2.mp4"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/Screenshot_20240705_165352_Gallery.jpg",
+        "size": 542007,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:15:48.937941686+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/Screenshot_20240705_165352_Gallery.jpg"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/20240704_174847.mp4",
+        "size": 50237323,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:18:33.743145619+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/20240704_174847.mp4"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/20240704_174944.mp4",
+        "size": 117733875,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:21:47.142644941+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/20240704_174944.mp4"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/24C06401.wav",
+        "size": 39462446,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:18:04.361422019+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/24C06401.wav"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan/20240704_174640.mp4",
+        "size": 31956445,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:17:43.577194614+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan/20240704_174640.mp4"
+    },
+    {
+        "path": "./ChelanVideos/Hell, Ryan.zip",
+        "size": 6564042071,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:57:06.410678486+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ChelanVideos/Hell, Ryan.zip"
+    },
+    {
+        "path": "./ChelanVideos/20240704_174847.mp4",
+        "size": 2031616,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:57:10.841084064+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/20240704_174847.mp4"
+    },
+    {
+        "path": "./ChelanVideos/20240704_174944.mp4",
+        "size": 1867776,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:57:10.733082270+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/20240704_174944.mp4"
+    },
+    {
+        "path": "./ChelanVideos/24C06401.wav",
+        "size": 39462446,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:18:00.676381695+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ChelanVideos/24C06401.wav"
+    },
+    {
+        "path": "./ChelanVideos/20240704_174640.mp4",
+        "size": 1966080,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:57:10.809083532+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./ChelanVideos/20240704_174640.mp4"
+    },
+    {
+        "path": "./MisidentifiedTowCompany",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T23:49:26.899295650+00:00",
+        "permissions": "drwxrwxr-x",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany"
+    },
+    {
+        "path": "./MisidentifiedTowCompany/illegalTowOperations.jpg",
+        "size": 609668,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:23:37.141462467+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany/illegalTowOperations.jpg"
+    },
+    {
+        "path": "./MisidentifiedTowCompany/VehicleIncidentReport.png",
+        "size": 3613035,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:22.776912929+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany/VehicleIncidentReport.png"
+    },
+    {
+        "path": "./MisidentifiedTowCompany/CFR-2005-title49-vol5-sec390-5.pdf",
+        "size": 164904,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:32:36.175917683+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany/CFR-2005-title49-vol5-sec390-5.pdf"
+    },
+    {
+        "path": "./MisidentifiedTowCompany/delinquencyNoticeSecStateWa.pdf",
+        "size": 103908,
+        "type": "regular file",
+        "mtime": "2025-12-02T23:49:27.934302348+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany/delinquencyNoticeSecStateWa.pdf"
+    },
+    {
+        "path": "./MisidentifiedTowCompany/C3910175-449A-4D24-974B-CF59449049CA.pdf",
+        "size": 116595,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:32:36.438920387+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany/C3910175-449A-4D24-974B-CF59449049CA.pdf"
+    },
+    {
+        "path": "./MisidentifiedTowCompany/noticeofdisolutionSexretaryofStateWa.pdf",
+        "size": 116595,
+        "type": "regular file",
+        "mtime": "2025-12-02T23:49:27.780301351+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany/noticeofdisolutionSexretaryofStateWa.pdf"
+    },
+    {
+        "path": "./MisidentifiedTowCompany/WAC 204-91A-180.pdf",
+        "size": 104044,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:32:36.440920408+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany/WAC 204-91A-180.pdf"
+    },
+    {
+        "path": "./MisidentifiedTowCompany/FD7D01CF-0A36-47F6-8FA3-E505BCAE556A.pdf",
+        "size": 103908,
+        "type": "regular file",
+        "mtime": "2025-12-02T17:32:36.430920305+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./MisidentifiedTowCompany/FD7D01CF-0A36-47F6-8FA3-E505BCAE556A.pdf"
+    },
+    {
+        "path": "./file_list_recursive.txt",
+        "size": 11446,
+        "type": "regular file",
+        "mtime": "2025-12-02T14:00:25.817041913+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./file_list_recursive.txt"
+    },
+    {
+        "path": "./Screenshot 2025-09-04 at 12.49.04 AM.png",
+        "size": 1593929,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:42:19.357930916+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./Screenshot 2025-09-04 at 12.49.04 AM.png"
+    },
+    {
+        "path": "./police-footage",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T10:46:31.425970585+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./police-footage"
+    },
+    {
+        "path": "./b&tTowing.png",
+        "size": 1091242,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:41:34.768685124+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./b&tTowing.png"
+    },
+    {
+        "path": "./Screenshot 2025-09-04 at 2.27.34 AM.png",
+        "size": 100309,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:43:17.367276395+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./Screenshot 2025-09-04 at 2.27.34 AM.png"
+    },
+    {
+        "path": "./Jeremiah911Audio",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T19:41:02.221517541+00:00",
+        "permissions": "drwxrwxr-x",
+        "fullpath": "/var/www/evidence/./Jeremiah911Audio"
+    },
+    {
+        "path": "./Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM.png",
+        "size": 4169354,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:41:16.592590256+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM.png"
+    },
+    {
+        "path": "./Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM-1.png",
+        "size": 4169354,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:41:16.740591015+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM-1.png"
+    },
+    {
+        "path": "./Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM-1-1.png",
+        "size": 4169354,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:41:16.592590256+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM-1-1.png"
+    },
+    {
+        "path": "./Jeremiah911Audio/24C06401.wav",
+        "size": 39462446,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:18:28.501841461+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./Jeremiah911Audio/24C06401.wav"
+    },
+    {
+        "path": "./witness-statements",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T18:14:12.927560721+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./witness-statements"
+    },
+    {
+        "path": "./witness-statements/allegedTowTruckOperatorsStatement.png",
+        "size": 5525498,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:30.901018073+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./witness-statements/allegedTowTruckOperatorsStatement.png"
+    },
+    {
+        "path": "./witness-statements/allegedTowTruckStatementB2of2.png",
+        "size": 3267667,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:17.697847155+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./witness-statements/allegedTowTruckStatementB2of2.png"
+    },
+    {
+        "path": "./witness-statements/JennaJohnsonStatement.png",
+        "size": 5674799,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:31.408024633+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./witness-statements/JennaJohnsonStatement.png"
+    },
+    {
+        "path": "./witness-statements/JeremiahStatementPartial.png",
+        "size": 4091491,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:26.127956309+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./witness-statements/JeremiahStatementPartial.png"
+    },
+    {
+        "path": "./witness-statements/JeremiahJohnsonStatementTOOKUSTOHISHOUSE.png",
+        "size": 5384888,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:31.176021631+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./witness-statements/JeremiahJohnsonStatementTOOKUSTOHISHOUSE.png"
+    },
+    {
+        "path": "./unidentifiedRedactedWitnessStatement.png",
+        "size": 5368006,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:30.568013764+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./unidentifiedRedactedWitnessStatement.png"
+    },
+    {
+        "path": "./file_list.csv",
+        "size": 32163,
+        "type": "regular file",
+        "mtime": "2025-12-08T09:37:13.414481404+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./file_list.csv"
+    },
+    {
+        "path": "./court-documents",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T10:46:31.425970585+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./court-documents"
+    },
+    {
+        "path": "./police-reports",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T18:14:51.853061520+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./police-reports"
+    },
+    {
+        "path": "./police-reports/bookingReportDeputyBrunner.png",
+        "size": 5657445,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:31.408024633+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./police-reports/bookingReportDeputyBrunner.png"
+    },
+    {
+        "path": "./police-reports/Page5-cpd-pr.pdf",
+        "size": 347158,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:36.489516038+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./police-reports/Page5-cpd-pr.pdf"
+    },
+    {
+        "path": "./police-reports/Chelan_2410025304_PoliceReportWork.pdf",
+        "size": 9868068,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:49:45.435013597+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./police-reports/Chelan_2410025304_PoliceReportWork.pdf"
+    },
+    {
+        "path": "./police-reports/incidentReport24C06401.png",
+        "size": 4006070,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:26.191957137+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./police-reports/incidentReport24C06401.png"
+    },
+    {
+        "path": "./police-reports/chargingDocuments.png",
+        "size": 4634387,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:28.331984833+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./police-reports/chargingDocuments.png"
+    },
+    {
+        "path": "./police-reports/ChelanPoliceReport.pdf",
+        "size": 9862112,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:46.991681024+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./police-reports/ChelanPoliceReport.pdf"
+    },
+    {
+        "path": "./police-reports/ORIGINAL_Scan044.pdf",
+        "size": 9862112,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:49:58.260148350+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./police-reports/ORIGINAL_Scan044.pdf"
+    },
+    {
+        "path": "./police-reports/trespassOrder.png",
+        "size": 4167098,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:27.040968125+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./police-reports/trespassOrder.png"
+    },
+    {
+        "path": "./police-reports/incidentSignature.png",
+        "size": 3301094,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:18.087852207+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./police-reports/incidentSignature.png"
+    },
+    {
+        "path": "./police-reports/incidentReportB24C06401.png",
+        "size": 3472342,
+        "type": "regular file",
+        "mtime": "2025-12-02T18:13:19.500870508+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./police-reports/incidentReportB24C06401.png"
+    },
+    {
+        "path": "./Screenshot 2025-09-04 at 12.45.32 AM.png",
+        "size": 1588802,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:42:46.042086396+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./Screenshot 2025-09-04 at 12.45.32 AM.png"
+    },
+    {
+        "path": "./download_list.txt",
+        "size": 28975,
+        "type": "regular file",
+        "mtime": "2025-12-02T19:58:17.100738999+00:00",
+        "permissions": "-rw-rw-r--",
+        "fullpath": "/var/www/evidence/./download_list.txt"
+    },
+    {
+        "path": "./ryansImageSet",
+        "size": 4096,
+        "type": "directory",
+        "mtime": "2025-12-02T10:59:11.037552214+00:00",
+        "permissions": "drwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet"
+    },
+    {
+        "path": "./ryansImageSet/74181379896__534F6905-2FDE-499A-A864-8DA48EE57F8A.fullsizerender.JPG",
+        "size": 5220368,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:22.217319233+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/74181379896__534F6905-2FDE-499A-A864-8DA48EE57F8A.fullsizerender.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6372.JPG",
+        "size": 989683,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:45.156652269+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6372.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6403.MOV",
+        "size": 5386234,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:59:10.216540868+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6403.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6423.MOV",
+        "size": 3994395,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:07.804060192+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6423.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6456.JPG",
+        "size": 6414518,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:58:58.442377753+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6456.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6396.MOV",
+        "size": 4816024,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:09.818157577+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6396.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6370.MOV",
+        "size": 667464,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:59:14.044593738+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6370.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6428.JPG",
+        "size": 4126096,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:56.415828233+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6428.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6441.JPG",
+        "size": 6015923,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:59:13.468585787+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6441.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6327.MOV",
+        "size": 11568322,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:45.828587656+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6327.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6425.MOV",
+        "size": 5582382,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:35.839542858+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6425.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6373.JPG",
+        "size": 1138733,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:00.286888476+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6373.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6358.JPG",
+        "size": 1056556,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:36.340443402+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6358.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6390.MOV",
+        "size": 4601348,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:38.651588781+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6390.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6459.JPG",
+        "size": 2313255,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:03.988096511+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6459.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6413.MOV",
+        "size": 2888830,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:58:19.641834765+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6413.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6393.JPG",
+        "size": 1756605,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:56:53.793600752+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6393.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6356.JPG",
+        "size": 913808,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:56:10.348957162+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6356.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6400.JPG",
+        "size": 2588171,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:55.347811590+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6400.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6446.JPG",
+        "size": 624864,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:58:35.047051376+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6446.JPG"
+    },
+    {
+        "path": "./ryansImageSet/74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.JPG",
+        "size": 4873307,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:56.935755614+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6432.MOV",
+        "size": 2582365,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:15.558217697+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6432.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6414.MOV",
+        "size": 1569340,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:58:39.242110126+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6414.MOV"
+    },
+    {
+        "path": "./ryansImageSet/527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg",
+        "size": 61998,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:30.718357582+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6423.JPG",
+        "size": 5566298,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:58:09.430690408+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6423.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6382.JPG",
+        "size": 3203559,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:43.436551355+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6382.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6393.MOV",
+        "size": 5677963,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:00.859948666+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6393.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6375.JPG",
+        "size": 1929243,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:20.612264684+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6375.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6448.JPG",
+        "size": 2328613,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:54.981853888+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6448.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6392.MOV",
+        "size": 5518145,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:15.744187145+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6392.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6339.JPG",
+        "size": 1085794,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:39.688605696+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6339.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6443.MOV",
+        "size": 9329514,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:32.809389532+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6443.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6370.JPG",
+        "size": 615987,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:32.631386814+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6370.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6347.JPG",
+        "size": 777755,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:56:32.262283503+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6347.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6389.JPG",
+        "size": 1773211,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:54:38.957554901+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6389.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6392.JPG",
+        "size": 3034862,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:57:20.128984386+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6392.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6458.JPG",
+        "size": 1621388,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:12.368184287+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6458.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6433.JPG",
+        "size": 2578557,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:50.621660254+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6433.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6436.JPG",
+        "size": 5132938,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:57:11.023852282+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6436.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6436.MOV",
+        "size": 4144481,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:57.348892094+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6436.MOV"
+    },
+    {
+        "path": "./ryansImageSet/99511A03-519D-473F-AC32-4FCA26032F52.jpeg",
+        "size": 317603,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:29.976346238+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/99511A03-519D-473F-AC32-4FCA26032F52.jpeg"
+    },
+    {
+        "path": "./ryansImageSet/74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.MOV",
+        "size": 3236065,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:05.312110380+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6355.JPG",
+        "size": 859139,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:55:43.448551537+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6355.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6355.MOV",
+        "size": 2588750,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:53:04.771104713+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6355.MOV"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6425.JPG",
+        "size": 3398137,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:56:25.598184636+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6425.JPG"
+    },
+    {
+        "path": "./ryansImageSet/IMG_6399.MOV",
+        "size": 3861478,
+        "type": "regular file",
+        "mtime": "2025-12-02T10:58:42.775159529+00:00",
+        "permissions": "-rwxr-xr-x",
+        "fullpath": "/var/www/evidence/./ryansImageSet/IMG_6399.MOV"
+    }
+]

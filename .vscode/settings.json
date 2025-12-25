@@ -1,0 +1,21 @@
+{
+    "powermode.enabled": false,
+    "powermode.presets": "exploding-rift",
+    "powermode.combo.location": "editor",
+    "powermode.combo.counterEnabled": "show",
+    "terminal.integrated.fontFamily": "Victor Mono",
+    "terminal.integrated.fontLigatures.enabled": true,
+    "workbench.colorCustomizations": {
+        "[Dark Gruvbox with Italics]": {}
+    },
+    "workbench.colorTheme": "An Old Hope Italic",
+    "prettier.experimentalTernaries": true,
+    "powermode.explosions.customExplxxzxosions": [
+        "https://c.tenor.com/e6NwGqohkp4AAAAi/ryu-street-fighter.gif"
+    ],
+    "tailwindcss-intellisense.trace.server": "verbose",
+    "tailwindCSS.emmetCompletions": true,
+    "js/ts.implicitProjectConfig.strictFunctionTypes": true,
+    "workbench.fontAliasing": "antialiased",
+    "claudeCode.useTerminal": true
+}

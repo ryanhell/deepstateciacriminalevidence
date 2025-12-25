@@ -1,0 +1,90 @@
+{ "CaseData": 
+  {
+    "incident": {
+      "criminalCharges": {
+        "count1": "felony threats to kill",
+        "count1Details": {
+          "allegedVictim1": "Jeremiah Johnson",
+          "allegedVictim2Details": "according to written affidavit by Rivercom 911, Jeremiah is Rivercom 911 Operation Manager and the owner of the home located at 7599 Colockum Road where Ryan and Passenger were taken to and subsequently where defendant.name was later arrested for incident.criminalCharges.count1, incident.criminalCharges.count2, incident.criminalCharges.count3"
+          },
+        "count2": "felony threats to kill",
+        "count2Details": {
+          "allegedVictim2": "Jena Johnson",
+          "allegedVictim2Details": "Jena arrived with Jeremiah in their GMC pickup and identified herself as a Rivercom dispatcher. Jena assaulted Ryan during the incident in an attempt to incite violence while her armed husband, Jeremiah stood near."
+          },
+        "count3": "felony threats to kill",
+        "count3Details": {
+          "allegedVictim3": "Brandon the Tow Operator",
+          "allegedVictim3Role": "owner operator car thief",
+          "allegedVictim3Details": "Brandon is the owner of the red tow rescue truck labeled B&T towing from Cashmere. Brandon stole defendant.VehicleData.year defendant.VehicleData.make defendant.VehicleData.model by driving that vehicle without defendant.name authorization or consent. No prior knowledge, conset, or contact has ever existed between defendant.name and incident.criminalCharges.count3.allegedVictim3"
+      }
+    },
+      "countyofCharges": "Chelan",
+      "stateCharged": "Washington",
+      "dateIncident": "July 4th 2024",
+      "defendentArrested": "true",
+      "defendentArraigned": "true",
+      "locationDescriptionIncident": "personal home of Rivercom 911 Operation Center Manager, Jeremiah Johnson, located on Colockum Road",
+      "streetAddressIncident": "7599 Colockum Road",
+      "city": "Malaga",
+      "state": "WA",
+      "postalCode": "98828",
+      "country": "USA"
+    },    
+    "defendant": {
+      "name": "Ryan Michael Hell",
+      "age": 47,
+      "residence": {
+        "city": "Seattle",
+        "state": "Washington"
+        },
+      "validDriversLicense": "true",
+      "validDriversInsurance": "true",
+      "ethnicity": "white",
+      "gender": "male",
+      "contactInfo": {
+        "phone": "(267)777-2344",
+        "email": "ryanbrooklyn2020@gmail.com"
+      },
+      "VehicleData": {
+        "ownership": "paid for in full by defendant.name",
+        "year": "2007",
+        "make": "Ford",
+        "model": "F-150",
+        "engine": "4.6L V6",
+        "drivetrain": "2wd",
+        "gearbox": "5-speed manual transmission",
+        "color": "Black",
+        "damageLimitingTravel": "TIRE: low pressure tire, spare was also flat; driver opted to utilize spare to drive while flat during emergency situation, saving the original alloy wheel and tire to be easily aired back up upon reaching services. "
+    },
+    "allegedVictimsBadConduct": [
+      "FalseImprisonment",
+      "FalseArrest",
+      "MaliciousProsecution",
+      "EvidenceTampering",
+      "WitnessIntimidation",
+      "FirstDegreeKidnapping",
+      "Extortion",
+      "AutoTheft",
+      "Assault",
+      "Interference911MedicalDuressCall",
+      "CivilConspiracytoViolatetheRightsofaDisabledAmericanUsingColorofLaw"
+    ],
+    "incident": {
+      "date": "July 4th 2024",
+      "location": "Colockum Wilderness State Park, Washington State"
+    },
+    "case_details": {
+      "case_number": "2410025304",
+      "court": "Chelan County Superior Court",
+      "charges": "Three Counts Felony Threats to 'leave and get a firearm and come back and shoot the place up'",
+      "status": "Awaiting Trial",
+      "next_hearing": "Wednesday via Zoom Case Readiness"
+    },
+    "evidence": {
+      "alleged_threat_evidence": "Testimony by three dispatchers and tow truck driver present",
+      "defendant_crimes_in_evidence": "NOT A SINGLE CRIME",
+      "alleged_victims_conduct": "YES, alleged victims threaten me and demand cash for the 911 rescue 'saving our lives' visible in states evidence videos"
+    }
+  }
+}

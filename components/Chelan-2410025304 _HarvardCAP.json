@@ -1,0 +1,268 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "url": "https://api.case.law/v1/cases/chelan-county-2410025304/",
+      "name": "State of Washington v. Ryan Hell",
+      "name_abbreviation": "State v. Hell",
+      "decision_date": null,
+      "docket_number": "2410025304",
+      "first_page": "1",
+      "last_page": "TBD",
+      "citations": [
+        {
+          "type": "docket",
+          "cite": "Chelan County Superior Court Case No. 2410025304"
+        }
+      ],
+      "volume": {
+        "url": "https://api.case.law/v1/volumes/chelan-2024/",
+        "volume_number": "2024",
+        "barcode": "chelan-superior-2024"
+      },
+      "reporter": {
+        "url": "https://api.case.law/v1/reporters/chelan-superior/",
+        "full_name": "Chelan County Superior Court Records",
+        "id": 1
+      },
+      "court": {
+        "url": "https://api.case.law/v1/courts/chelan-superior/",
+        "id": 2410,
+        "slug": "chelan-superior",
+        "name": "Chelan County Superior Court",
+        "name_abbreviation": "Chelan Super. Ct."
+      },
+      "jurisdiction": {
+        "url": "https://api.case.law/v1/jurisdictions/washington/",
+        "id": 48,
+        "name_long": "Washington State",
+        "name": "Washington",
+        "whitelisted": true
+      },
+      "cites_to": [
+        {
+          "cite": "18 U.S.C. § 242 (Deprivation of Rights Under Color of Law)",
+          "category": "federal_statute"
+        },
+        {
+          "cite": "42 U.S.C. § 1983 (Civil Rights Under Color of Law)",
+          "category": "federal_statute"
+        },
+        {
+          "cite": "RCW 9A.36.011 (Assault in the First Degree)",
+          "category": "state_statute"
+        },
+        {
+          "cite": "RCW 9A.40.020 (Kidnapping in the First Degree)",
+          "category": "state_statute"
+        }
+      ],
+      "defendant_information": {
+        "name": "Ryan Michael Hell",
+        "drivers_license": "WDL686B5123B",
+        "vehicle": {
+          "year": 2007,
+          "make": "Ford",
+          "model": "F150",
+          "vin": "1FTRF12287KD59525",
+          "ownership_account": "C63884Y"
+        },
+        "contact": {
+          "phone": "(267)777-2344",
+          "email": "ryanbrooklyn2020@gmail.com",
+          "residence": "Seattle, WA"
+        },
+        "criminal_history": "None for at least 20 years"
+      },
+      "coordinated_assault_analysis": {
+        "assault_type": "Coordinated Attack by Married Dispatcher Team",
+        "operations_manager_role": {
+          "name": "Jeremiah Johnson",
+          "position": "Rivercom 911 Operations Manager",
+          "actions": [
+            "Positioned strategically at wife's side during assault",
+            "Observed entire assault without intervention",
+            "Allowed wife to attack emergency caller",
+            "Coordinated timing for maximum psychological impact"
+          ]
+        },
+        "severity_of_assault": {
+          "physical_impact": "Near loss of consciousness - 'almost knocking me out'",
+          "timing": "Punch to face during active 911 call requesting State Patrol",
+          "tactical_withdrawal": "10-15 foot retreat by defendant after severe blow",
+          "pain_and_disorientation": "Natural response to near-knockout punch"
+        },
+        "aggravated_assault_elements": [
+          "Severe bodily harm - punch nearly rendered victim unconscious",
+          "During emergency call - assault on person seeking official help",
+          "Government officials - abuse of authority and position",
+          "Coordinated attack - husband positioning shows premeditation"
+        ]
+      },
+      "division_of_labor": {
+        "wife_role": "Direct confrontation - verbal abuse, physical assault",
+        "husband_role": "Enforcement - armed backup, death threats",
+        "coordination": "Both coordinate timing - assault triggered by State Patrol request",
+        "prevention_tactics": "Neither de-escalates - both committed to preventing outside intervention"
+      },
+      "intimidation_tactics": {
+        "two_phase_strategy": {
+          "phase_1": {
+            "actor": "Wife (Jenna)",
+            "actions": [
+              "Punch to face nearly knocking out defendant",
+              "During 911 call requesting State Patrol assistance",
+              "Husband positioned strategically at wife's side"
+            ]
+          },
+          "phase_2": {
+            "actor": "Husband (Jeremiah)",
+            "actions": [
+              "Crosses defensive perimeter created by victim",
+              "Aggressive finger pointing in assault victim's face",
+              "Verbal threats about how to speak to his wife",
+              "Escalation after victim appropriately de-escalated"
+            ]
+          }
+        },
+        "message_being_sent": [
+          "No safe distance allowed - will pursue victim anywhere",
+          "Wife above reproach - can assault with impunity",
+          "Verbal compliance demanded - control victim's speech",
+          "Physical dominance - will invade personal space aggressively"
+        ]
+      },
+      "self_defense_analysis": {
+        "defendants_legal_position": {
+          "reasonable_response": [
+            "Created appropriate distance after assault",
+            "Maintained defensive posture - no advance toward attackers",
+            "De-escalated physically - retreated rather than fought",
+            "Responded to continued aggression - husband pursuing across safe space"
+          ],
+          "imminent_threat_elements": [
+            "Armed pursuer - Operations Manager with concealed carry",
+            "Aggressive gestures - finger pointing in face",
+            "Verbal threats - yelling commands",
+            "Pattern of escalation - from assault to pursuit to threats"
+          ]
+        },
+        "contrast_with_prosecution": {
+          "reality": [
+            "Defendant retreating - creating defensive distance",
+            "Officials pursuing - crossing victim's safe space",
+            "Officials threatening - aggressive finger pointing and yelling",
+            "Officials escalating - from assault to intimidation"
+          ],
+          "fabricated_narrative": [
+            "Claims defendant threatened them - opposite of evidence",
+            "Portrays officials as victims - despite them being aggressors",
+            "Ignores assault and pursuit - focuses only on alleged response",
+            "Reverses aggressor/victim roles - contradicts physical evidence"
+          ]
+        }
+      },
+      "federal_implications": {
+        "civil_rights_violations": [
+          "42 U.S.C. § 1983 - Excessive force pursuing and threatening assault victim",
+          "42 U.S.C. § 1983 - Intimidation under color of law using official position to threaten",
+          "42 U.S.C. § 1983 - Denial of constitutional rights preventing emergency services access"
+        ],
+        "attempted_murder_elements": {
+          "statute": "18 U.S.C. § 242",
+          "elements": [
+            "Government official attempting to kill citizen",
+            "Using official authority to create opportunity",
+            "Deprivation of life under color of law",
+            "Civil rights violation - denial of due process through execution"
+          ]
+        },
+        "pattern_of_misconduct": [
+          "Coordinated attack - both spouses working together",
+          "Escalating violence - from deception to assault to pursuit",
+          "Abuse of authority - using government positions to intimidate",
+          "Obstruction of justice - preventing State Patrol contact"
+        ]
+      },
+      "premeditated_murder_analysis": {
+        "setup_sequence": [
+          "Wife assaults to provoke retaliation",
+          "Husband 'defends' with deadly force claim",
+          "When assault fails to provoke response",
+          "Husband charges with weapon to execute victim"
+        ],
+        "clear_intent_to_kill": [
+          "Death threats while accessing weapon",
+          "Charging attack at close range",
+          "Weapon access during verbal threats",
+          "Isolated location - no witnesses to truth"
+        ],
+        "deadly_force_justification_present": {
+          "ability": "Armed official with concealed carry permit",
+          "opportunity": "One stride away - within lethal force range",
+          "intent": "Death threats being made while reaching for weapon",
+          "imminence": "One stride away - seconds from contact"
+        },
+        "defendants_extraordinary_restraint": [
+          "Continued verbal de-escalation despite legal justification for deadly force",
+          "No physical response despite facing execution",
+          "No weapon drawn even when opponent accessing his",
+          "Maintained defensive posture - did not advance or attack"
+        ]
+      },
+      "prosecutorial_misconduct_evidence": [
+        {
+          "type": "Evidence Tampering",
+          "description": "CAD files altered, 911 audio destroyed, AI manipulation of dash cam footage"
+        },
+        {
+          "type": "Witness Intimidation",
+          "description": "Court orders preventing contact with actual tow operator witness"
+        },
+        {
+          "type": "False Documentation",
+          "description": "Wrong tow company listed to cover uncooperative witness"
+        },
+        {
+          "type": "Inadequate Counsel",
+          "description": "Multiple assigned attorneys allegedly sabotaging defense"
+        }
+      ],
+      "attempted_execution_analysis": {
+        "moment_of_attempted_murder": "Faced imminent execution by armed government official and still chose de-escalation over violence",
+        "legal_implications": [
+          "Officials were prepared to commit murder - weapon access during charge",
+          "Defendant showed extraordinary restraint - verbal de-escalation facing death",
+          "No basis for fabricated threats - someone this controlled doesn't make wild threats",
+          "Premeditated murder attempt - coordinated setup from assault to execution attempt",
+          "Federal crimes - attempted murder under color of law"
+        ],
+        "proof_elements": [
+          "Reaching for weapon while charging and making death threats shows attempted execution",
+          "Extraordinary self-control likely the only reason defendant survived to tell story"
+        ]
+      },
+      "case_significance": {
+        "government_accountability": "Demonstrates systematic abuse of 911 emergency system",
+        "civil_rights_protection": "Pattern of coordinated attack by government officials",
+        "public_safety": "Officials abandoning sworn duties to commit crimes",
+        "legal_precedent": "Self-defense against government officials under color of law"
+      }
+    }
+  ],
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "case_summary": {
+    "primary_allegation": "Attempted execution by government officials during medical emergency",
+    "defendant_position": "Victim of coordinated criminal conspiracy and attempted murder",
+    "federal_crimes_identified": [
+      "18 U.S.C. § 242 - Attempted Murder Under Color of Law",
+      "42 U.S.C. § 1983 - Civil Rights Violations",
+      "Assault with Deadly Weapon by Armed Official",
+      "Conspiracy to Commit Murder Under Color of Law"
+    ],
+    "evidence_integrity": "Substantial tampering with forensic indicators of AI manipulation",
+    "legal_significance": "Government officials attempting execution of citizen seeking emergency help"
+  }
+}
