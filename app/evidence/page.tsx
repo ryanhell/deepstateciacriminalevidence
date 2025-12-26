@@ -1,6 +1,6 @@
 import React from 'react';
 // Assuming your JSON is in the public folder
-import mediaData from '@/public/media_list.json';
+import mediaData from '@/public/file-list.json';
 
 export default function EvidenceDownloadPage() {
     return (

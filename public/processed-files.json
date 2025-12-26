@@ -1,1928 +1,2306 @@
 [
   {
-    "name": "b&tTowing.png",
-    "path": "/b&tTowing.png",
-    "size": 1091242,
-    "type": "file",
-    "mtime": "2025-12-02T19:41:34.768685124+00:00",
-    "extension": "png",
-    "category": "Towing Company"
+    "name": "CivilRightsIntakeDoJ.pdf",
+    "folder": "MyPersonalLegalEfforts",
+    "size": 141306,
+    "type": "application/pdf",
+    "checksum": "f22f4d780512b6463d94755ba2e62867dce517668c3d7529be6784a66ef48f10",
+    "url": "https://example.com/files/MyPersonalLegalEfforts/CivilRightsIntakeDoJ.pdf"
   },
   {
-    "name": "ChelanVideos",
-    "path": "/ChelanVideos",
-    "size": 0,
-    "type": "directory",
-    "mtime": "2025-12-02T17:57:10.906085143+00:00",
-    "category": "Video Evidence",
-    "children": [
-      {
-        "name": "20240704_174521.mp4",
-        "path": "/ChelanVideos/20240704_174521.mp4",
-        "size": 1802240,
-        "type": "file",
-        "mtime": "2025-12-02T17:57:10.906085143+00:00",
-        "extension": "mp4",
-        "category": "Video Evidence"
-      },
-      {
-        "name": "20240704_174640.mp4",
-        "path": "/ChelanVideos/20240704_174640.mp4",
-        "size": 1966080,
-        "type": "file",
-        "mtime": "2025-12-02T17:57:10.809083532+00:00",
-        "extension": "mp4",
-        "category": "Video Evidence"
-      },
-      {
-        "name": "20240704_174847.mp4",
-        "path": "/ChelanVideos/20240704_174847.mp4",
-        "size": 2031616,
-        "type": "file",
-        "mtime": "2025-12-02T17:57:10.841084064+00:00",
-        "extension": "mp4",
-        "category": "Video Evidence"
-      },
-      {
-        "name": "20240704_174944.mp4",
-        "path": "/ChelanVideos/20240704_174944.mp4",
-        "size": 1867776,
-        "type": "file",
-        "mtime": "2025-12-02T17:57:10.733082270+00:00",
-        "extension": "mp4",
-        "category": "Video Evidence"
-      },
-      {
-        "name": "24C06401.wav",
-        "path": "/ChelanVideos/24C06401.wav",
-        "size": 39462446,
-        "type": "file",
-        "mtime": "2025-12-02T14:18:00.676381695+00:00",
-        "extension": "wav",
-        "category": "Video Evidence"
-      },
-      {
-        "name": "Hell, Ryan.zip",
-        "path": "/ChelanVideos/Hell, Ryan.zip",
-        "size": 6564042071,
-        "type": "file",
-        "mtime": "2025-12-02T18:57:06.410678486+00:00",
-        "extension": "zip",
-        "category": "Video Evidence"
-      },
-      {
-        "name": "Hell, Ryan",
-        "path": "/ChelanVideos/Hell, Ryan",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T14:21:22.338778311+00:00",
-        "category": "Video Evidence",
-        "children": [
-          {
-            "name": "20240704_173916.mp4",
-            "path": "/ChelanVideos/Hell, Ryan/20240704_173916.mp4",
-            "size": 107034115,
-            "type": "file",
-            "mtime": "2025-12-02T14:21:22.338778311+00:00",
-            "extension": "mp4",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "20240704_174521.mp4",
-            "path": "/ChelanVideos/Hell, Ryan/20240704_174521.mp4",
-            "size": 124673658,
-            "type": "file",
-            "mtime": "2025-12-02T14:21:59.280585201+00:00",
-            "extension": "mp4",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "20240704_174640.mp4",
-            "path": "/ChelanVideos/Hell, Ryan/20240704_174640.mp4",
-            "size": 31956445,
-            "type": "file",
-            "mtime": "2025-12-02T14:17:43.577194614+00:00",
-            "extension": "mp4",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "20240704_174847.mp4",
-            "path": "/ChelanVideos/Hell, Ryan/20240704_174847.mp4",
-            "size": 50237323,
-            "type": "file",
-            "mtime": "2025-12-02T14:18:33.743145619+00:00",
-            "extension": "mp4",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "20240704_174944.mp4",
-            "path": "/ChelanVideos/Hell, Ryan/20240704_174944.mp4",
-            "size": 117733875,
-            "type": "file",
-            "mtime": "2025-12-02T14:21:47.142644941+00:00",
-            "extension": "mp4",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "24C06401.wav",
-            "path": "/ChelanVideos/Hell, Ryan/24C06401.wav",
-            "size": 39462446,
-            "type": "file",
-            "mtime": "2025-12-02T14:18:04.361422019+00:00",
-            "extension": "wav",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "AdamMusgrove_202407041734_1274_27294709-2.mp4",
-            "path": "/ChelanVideos/Hell, Ryan/AdamMusgrove_202407041734_1274_27294709-2.mp4",
-            "size": 604860773,
-            "type": "file",
-            "mtime": "2025-12-02T17:38:39.049560523+00:00",
-            "extension": "mp4",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165252_Gallery.jpg",
-            "path": "/ChelanVideos/Hell, Ryan/Screenshot_20240705_165252_Gallery.jpg",
-            "size": 850469,
-            "type": "file",
-            "mtime": "2025-12-02T11:06:57.333557295+00:00",
-            "extension": "jpg",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165352_Gallery.jpg",
-            "path": "/ChelanVideos/Hell, Ryan/Screenshot_20240705_165352_Gallery.jpg",
-            "size": 542007,
-            "type": "file",
-            "mtime": "2025-12-02T14:15:48.937941686+00:00",
-            "extension": "jpg",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165436_Gallery.jpg",
-            "path": "/ChelanVideos/Hell, Ryan/Screenshot_20240705_165436_Gallery.jpg",
-            "size": 533521,
-            "type": "file",
-            "mtime": "2025-12-02T14:15:48.990942265+00:00",
-            "extension": "jpg",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165748_Gallery.jpg",
-            "path": "/ChelanVideos/Hell, Ryan/Screenshot_20240705_165748_Gallery.jpg",
-            "size": 656591,
-            "type": "file",
-            "mtime": "2025-12-02T14:15:49.707950093+00:00",
-            "extension": "jpg",
-            "category": "Video Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165756_Gallery.jpg",
-            "path": "/ChelanVideos/Hell, Ryan/Screenshot_20240705_165756_Gallery.jpg",
-            "size": 689710,
-            "type": "file",
-            "mtime": "2025-12-02T14:15:49.887952059+00:00",
-            "extension": "jpg",
-            "category": "Video Evidence"
-          }
-        ]
-      }
-    ]
+    "name": "MyMotionToPreserveEvidenceWhichWasDenied.pdf",
+    "folder": "MyPersonalLegalEfforts",
+    "size": 275091,
+    "type": "application/pdf",
+    "checksum": "51053760a486e8796c0cc905f6c55738fb299e41eff431923bb63e8aff5a4b41",
+    "url": "https://example.com/files/MyPersonalLegalEfforts/MyMotionToPreserveEvidenceWhichWasDenied.pdf"
   },
   {
-    "name": "Dropbox_11-20-25",
-    "path": "/Dropbox_11-20-25",
-    "size": 0,
-    "type": "directory",
-    "mtime": "2025-12-02T11:22:54.399642608+00:00",
-    "category": "Other Evidence",
-    "children": [
-      {
-        "name": "AdamMusgrove_202407041734_1274_27294709___unkmnownVER.mp4",
-        "path": "/Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709___unkmnownVER.mp4",
-        "size": 468065077,
-        "type": "file",
-        "mtime": "2025-12-02T11:22:54.399642608+00:00",
-        "extension": "mp4",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "AdamMusgrove_202407041734_1274_27294709-2.mp4",
-        "path": "/Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709-2.mp4",
-        "size": 604860773,
-        "type": "file",
-        "mtime": "2025-12-02T11:29:14.942867852+00:00",
-        "extension": "mp4",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "AdamMusgrove_202407041734_1274_27294709.mp4",
-        "path": "/Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709.mp4",
-        "size": 468065077,
-        "type": "file",
-        "mtime": "2025-12-02T11:20:55.711304219+00:00",
-        "extension": "mp4",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "file.html",
-        "path": "/Dropbox_11-20-25/file.html",
-        "size": 1005,
-        "type": "file",
-        "mtime": "2025-12-02T10:58:47.893230967+00:00",
-        "extension": "html",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "Hell, Ryan.zip.download",
-        "path": "/Dropbox_11-20-25/Hell, Ryan.zip.download",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T11:23:22.345957026+00:00",
-        "category": "Other Evidence",
-        "children": [
-          {
-            "name": "Info.plist",
-            "path": "/Dropbox_11-20-25/Hell, Ryan.zip.download/Info.plist",
-            "size": 1102,
-            "type": "file",
-            "mtime": "2025-12-02T11:23:22.345957026+00:00",
-            "extension": "plist",
-            "category": "Other Evidence"
-          }
-        ]
-      },
-      {
-        "name": "Hell, Ryan",
-        "path": "/Dropbox_11-20-25/Hell, Ryan",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T10:51:58.128406329+00:00",
-        "category": "Other Evidence",
-        "children": [
-          {
-            "name": "Screenshot_20240705_165252_Gallery.jpg",
-            "path": "/Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165252_Gallery.jpg",
-            "size": 850469,
-            "type": "file",
-            "mtime": "2025-12-02T10:51:58.128406329+00:00",
-            "extension": "jpg",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165352_Gallery.jpg",
-            "path": "/Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165352_Gallery.jpg",
-            "size": 542007,
-            "type": "file",
-            "mtime": "2025-12-02T10:52:00.156427592+00:00",
-            "extension": "jpg",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165436_Gallery.jpg",
-            "path": "/Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165436_Gallery.jpg",
-            "size": 533521,
-            "type": "file",
-            "mtime": "2025-12-02T10:51:56.084384898+00:00",
-            "extension": "jpg",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165748_Gallery.jpg",
-            "path": "/Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165748_Gallery.jpg",
-            "size": 656591,
-            "type": "file",
-            "mtime": "2025-12-02T10:52:00.233428399+00:00",
-            "extension": "jpg",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot_20240705_165756_Gallery.jpg",
-            "path": "/Dropbox_11-20-25/Hell, Ryan/Screenshot_20240705_165756_Gallery.jpg",
-            "size": 689710,
-            "type": "file",
-            "mtime": "2025-12-02T10:51:57.957404536+00:00",
-            "extension": "jpg",
-            "category": "Other Evidence"
-          }
-        ]
-      },
-      {
-        "name": "PRR",
-        "path": "/Dropbox_11-20-25/PRR",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T10:51:58.014405134+00:00",
-        "category": "Public Records",
-        "children": [
-          {
-            "name": "24C06391.pdf",
-            "path": "/Dropbox_11-20-25/PRR/24C06391.pdf",
-            "size": 95769,
-            "type": "file",
-            "mtime": "2025-12-02T10:51:58.014405134+00:00",
-            "extension": "pdf",
-            "category": "Public Records"
-          },
-          {
-            "name": "24C06401_R.pdf",
-            "path": "/Dropbox_11-20-25/PRR/24C06401_R.pdf",
-            "size": 223243,
-            "type": "file",
-            "mtime": "2025-12-02T10:52:01.296439544+00:00",
-            "extension": "pdf",
-            "category": "Public Records"
-          },
-          {
-            "name": "24C06401.wav",
-            "path": "/Dropbox_11-20-25/PRR/24C06401.wav",
-            "size": 39462446,
-            "type": "file",
-            "mtime": "2025-12-02T10:53:03.632092782+00:00",
-            "extension": "wav",
-            "category": "Public Records"
-          },
-          {
-            "name": "ChelanPrints",
-            "path": "/Dropbox_11-20-25/PRR/ChelanPrints",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:29:57.808333127+00:00",
-            "category": "Public Records",
-            "children": [
-              {
-                "name": "20240704_173916.json-metadata.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/20240704_173916.json-metadata.pdf",
-                "size": 284631,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:57.808333127+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "3C6B13AC-EA4A-4FEA-A057-9065662413F7_1_102_a copy.jpeg",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/3C6B13AC-EA4A-4FEA-A057-9065662413F7_1_102_a copy.jpeg",
-                "size": 1004574,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:55.399306962+00:00",
-                "extension": "jpeg",
-                "category": "Public Records"
-              },
-              {
-                "name": "3dToolUsed.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/3dToolUsed.pdf",
-                "size": 2995701,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:41.060151252+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg",
-                "size": 61998,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:06.199773042+00:00",
-                "extension": "jpeg",
-                "category": "Public Records"
-              },
-              {
-                "name": "78BE6AB2-B6D8-4B7B-A7BB-ECE8146279EC.jpeg",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/78BE6AB2-B6D8-4B7B-A7BB-ECE8146279EC.jpeg",
-                "size": 42911,
-                "type": "file",
-                "mtime": "2025-12-02T11:24:59.767051271+00:00",
-                "extension": "jpeg",
-                "category": "Public Records"
-              },
-              {
-                "name": "96FEA413-BFCC-4ED4-B644-89FA5749A714.PDF",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/96FEA413-BFCC-4ED4-B644-89FA5749A714.PDF",
-                "size": 122099,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:57.444697918+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "BandTTowSSNoticeofDissolutioin.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/BandTTowSSNoticeofDissolutioin.pdf",
-                "size": 122876,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:18.890265759+00:00",
-                "extension": "pdf",
-                "category": "Towing Company"
-              },
-              {
-                "name": "cad.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/cad.pdf",
-                "size": 224995,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:42.866170858+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "Chelan_2410025304_PoliceReportWork.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Chelan_2410025304_PoliceReportWork.pdf",
-                "size": 9868068,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:36.980106961+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "ChelanCountySheriff_2410025304.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/ChelanCountySheriff_2410025304.pdf",
-                "size": 9868068,
-                "type": "file",
-                "mtime": "2025-12-02T11:28:23.765313343+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "ChelanSheriffs.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/ChelanSheriffs.pdf",
-                "size": 9862112,
-                "type": "file",
-                "mtime": "2025-12-02T11:24:57.696028035+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "Exhinbit_A.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Exhinbit_A.pdf",
-                "size": 50002,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:07.735789696+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "F2660D94-5517-44E8-A863-48EB6CFA51E3_1_102_a copy.jpeg",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/F2660D94-5517-44E8-A863-48EB6CFA51E3_1_102_a copy.jpeg",
-                "size": 690877,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:40.241142361+00:00",
-                "extension": "jpeg",
-                "category": "Public Records"
-              },
-              {
-                "name": "illegal.jpg",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/illegal.jpg",
-                "size": 572824,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:54.287662544+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "IMG_6441.JPG",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6441.JPG",
-                "size": 5288912,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:50.370904593+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "IMG_6446.JPG",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6446.JPG",
-                "size": 624864,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:18.417557076+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "IMG_6447.JPG",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6447.JPG",
-                "size": 4513511,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:14.612515718+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "IMG_6449.JPG",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6449.JPG",
-                "size": 2204876,
-                "type": "file",
-                "mtime": "2025-12-02T11:26:08.796825097+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "IMG_6452.JPG",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6452.JPG",
-                "size": 4856193,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:30.219685393+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "IMG_6453.JPG",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6453.JPG",
-                "size": 4604523,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:14.592515500+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "IMG_6456.JPG",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6456.JPG",
-                "size": 4597524,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:41.559808731+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "motionToDismiss_RyanHellChelanCounty.pdf",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/motionToDismiss_RyanHellChelanCounty.pdf",
-                "size": 51581,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:50.667255573+00:00",
-                "extension": "pdf",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-18 at 9.45.24 PM copy.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-18 at 9.45.24 PM copy.png",
-                "size": 4396922,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:31.677049404+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-19 at 11.22.40 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.22.40 AM.png",
-                "size": 3808304,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:51.773267578+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-19 at 11.23.02 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.02 AM.png",
-                "size": 3277185,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:29.342382954+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-19 at 11.23.06 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.06 AM.png",
-                "size": 4665620,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:03.936748507+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-19 at 11.23.08 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.08 AM.png",
-                "size": 4681540,
-                "type": "file",
-                "mtime": "2025-12-02T11:26:52.005308909+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-19 at 11.23.10 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.10 AM.png",
-                "size": 5195143,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:50.034614886+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-19 at 11.23.17 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-19 at 11.23.17 AM.png",
-                "size": 4575611,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:28.789669842+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-20 at 1.52.30 PM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-20 at 1.52.30 PM.png",
-                "size": 538211,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:57.498329761+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-08-20 at 3.23.16 PM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-08-20 at 3.23.16 PM.png",
-                "size": 155919,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:55.895680562+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-02 at 12.49.10 PM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-02 at 12.49.10 PM.png",
-                "size": 357645,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:03.453092625+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-04 at 1.52.53 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 1.52.53 AM.png",
-                "size": 487029,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:33.503721107+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-04 at 12.45.32 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 12.45.32 AM.png",
-                "size": 1588802,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:38.229772508+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-04 at 12.49.04 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 12.49.04 AM.png",
-                "size": 1593929,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:48.232229124+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-04 at 2.27.50 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-04 at 2.27.50 AM.png",
-                "size": 64157,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:51.582632233+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-05 at 2.45.20 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-05 at 2.45.20 AM.png",
-                "size": 1046579,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:45.641853144+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-08 at 7.51.39 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-08 at 7.51.39 AM.png",
-                "size": 4169354,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:15.974233067+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-08 at 8.44.16 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-08 at 8.44.16 AM.png",
-                "size": 4437183,
-                "type": "file",
-                "mtime": "2025-12-02T11:24:28.695702561+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-11 at 1.01.17 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.01.17 AM.png",
-                "size": 230220,
-                "type": "file",
-                "mtime": "2025-12-02T11:26:11.213852172+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-11 at 1.09.37 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.09.37 AM.png",
-                "size": 133458,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:17.391545924+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-11 at 1.15.57 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.15.57 AM.png",
-                "size": 407094,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:16.920889305+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-11 at 1.20.32 AM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-11 at 1.20.32 AM.png",
-                "size": 89075,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:30.959693442+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-16 at 3.06.34 PM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-16 at 3.06.34 PM.png",
-                "size": 323285,
-                "type": "file",
-                "mtime": "2025-12-02T11:29:54.359295665+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Screenshot 2025-09-16 at 3.06.56 PM.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot 2025-09-16 at 3.06.56 PM.png",
-                "size": 365127,
-                "type": "file",
-                "mtime": "2025-12-02T11:28:28.714366915+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              },
-              {
-                "name": "Search results - ryanbrooklyn2020@gmail.com - Gmail copy.jpg",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/Search results - ryanbrooklyn2020@gmail.com - Gmail copy.jpg",
-                "size": 220821,
-                "type": "file",
-                "mtime": "2025-12-02T11:25:31.670409054+00:00",
-                "extension": "jpg",
-                "category": "Public Records"
-              },
-              {
-                "name": "truckLicensinf.png",
-                "path": "/Dropbox_11-20-25/PRR/ChelanPrints/truckLicensinf.png",
-                "size": 289906,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:47.608874540+00:00",
-                "extension": "png",
-                "category": "Public Records"
-              }
-            ]
-          },
-          {
-            "name": "vids",
-            "path": "/Dropbox_11-20-25/PRR/vids",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:30:56.927975948+00:00",
-            "category": "Public Records",
-            "children": [
-              {
-                "name": "ZachBrunner_202407041759_1310_67642683.mp4.download",
-                "path": "/Dropbox_11-20-25/PRR/vids/ZachBrunner_202407041759_1310_67642683.mp4.download",
-                "size": 0,
-                "type": "directory",
-                "mtime": "2025-12-02T11:30:56.927975948+00:00",
-                "category": "Public Records",
-                "children": [
-                  {
-                    "name": "Info.plist",
-                    "path": "/Dropbox_11-20-25/PRR/vids/ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist",
-                    "size": 1199,
-                    "type": "file",
-                    "mtime": "2025-12-02T11:30:56.927975948+00:00",
-                    "extension": "plist",
-                    "category": "Public Records"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "ZachBrunner_202407041759_1310_67642683-2.mp4",
-            "path": "/Dropbox_11-20-25/PRR/ZachBrunner_202407041759_1310_67642683-2.mp4",
-            "size": 591794910,
-            "type": "file",
-            "mtime": "2025-12-02T11:37:35.479334316+00:00",
-            "extension": "mp4",
-            "category": "Public Records"
-          }
-        ]
-      },
-      {
-        "name": "Untitled.jpg",
-        "path": "/Dropbox_11-20-25/Untitled.jpg",
-        "size": 992562,
-        "type": "file",
-        "mtime": "2025-12-02T10:59:02.118428761+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "zac",
-        "path": "/Dropbox_11-20-25/zac",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T11:23:42.450183064+00:00",
-        "category": "Other Evidence",
-        "children": [
-          {
-            "name": "Screenshot 2025-11-20 at 10.59.45 AM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 10.59.45 AM.png",
-            "size": 6957152,
-            "type": "file",
-            "mtime": "2025-12-02T11:23:42.450183064+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot 2025-11-20 at 11.03.44 AM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 11.03.44 AM.png",
-            "size": 7363924,
-            "type": "file",
-            "mtime": "2025-12-02T11:24:12.622522075+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot 2025-11-20 at 11.03.45 AM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-20 at 11.03.45 AM.png",
-            "size": 7442051,
-            "type": "file",
-            "mtime": "2025-12-02T11:23:19.459924566+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot 2025-11-25 at 4.45.53 PM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-25 at 4.45.53 PM.png",
-            "size": 97608,
-            "type": "file",
-            "mtime": "2025-12-02T11:24:14.042538023+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot 2025-11-25 at 4.47.26 PM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-25 at 4.47.26 PM.png",
-            "size": 97486,
-            "type": "file",
-            "mtime": "2025-12-02T11:23:23.847973918+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot 2025-11-30 at 2.43.05 PM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.43.05 PM.png",
-            "size": 287025,
-            "type": "file",
-            "mtime": "2025-12-02T11:24:17.984582294+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot 2025-11-30 at 2.46.46 PM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.46.46 PM.png",
-            "size": 106357,
-            "type": "file",
-            "mtime": "2025-12-02T11:23:21.004941943+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot 2025-11-30 at 2.47.54 PM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 2.47.54 PM.png",
-            "size": 125568,
-            "type": "file",
-            "mtime": "2025-12-02T11:22:58.757691654+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "Screenshot 2025-11-30 at 4.24.55 PM.png",
-            "path": "/Dropbox_11-20-25/zac/Screenshot 2025-11-30 at 4.24.55 PM.png",
-            "size": 49045,
-            "type": "file",
-            "mtime": "2025-12-02T11:24:16.056560643+00:00",
-            "extension": "png",
-            "category": "Other Evidence"
-          },
-          {
-            "name": "XX_ZachBrunner_202407041759_1310_67642683.mp4.download",
-            "path": "/Dropbox_11-20-25/zac/XX_ZachBrunner_202407041759_1310_67642683.mp4.download",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:30:56.143967416+00:00",
-            "category": "Other Evidence",
-            "children": [
-              {
-                "name": "Info.plist",
-                "path": "/Dropbox_11-20-25/zac/XX_ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist",
-                "size": 1206,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:56.143967416+00:00",
-                "extension": "plist",
-                "category": "Other Evidence"
-              }
-            ]
-          },
-          {
-            "name": "ZachBrunner_202407041759_1310_67642683.mp4-2.download",
-            "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-2.download",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:30:53.523938903+00:00",
-            "category": "Other Evidence",
-            "children": [
-              {
-                "name": "Info.plist",
-                "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-2.download/Info.plist",
-                "size": 1195,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:53.523938903+00:00",
-                "extension": "plist",
-                "category": "Other Evidence"
-              }
-            ]
-          },
-          {
-            "name": "ZachBrunner_202407041759_1310_67642683.mp4-3.download",
-            "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-3.download",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:30:53.126934582+00:00",
-            "category": "Other Evidence",
-            "children": [
-              {
-                "name": "Info.plist",
-                "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-3.download/Info.plist",
-                "size": 1203,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:53.126934582+00:00",
-                "extension": "plist",
-                "category": "Other Evidence"
-              }
-            ]
-          },
-          {
-            "name": "ZachBrunner_202407041759_1310_67642683.mp4-5.download",
-            "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-5.download",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:30:51.751919619+00:00",
-            "category": "Other Evidence",
-            "children": [
-              {
-                "name": "Info.plist",
-                "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-5.download/Info.plist",
-                "size": 1205,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:51.751919619+00:00",
-                "extension": "plist",
-                "category": "Other Evidence"
-              }
-            ]
-          },
-          {
-            "name": "ZachBrunner_202407041759_1310_67642683.mp4-6.download",
-            "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-6.download",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:30:55.643961975+00:00",
-            "category": "Other Evidence",
-            "children": [
-              {
-                "name": "Info.plist",
-                "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-6.download/Info.plist",
-                "size": 1205,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:55.643961975+00:00",
-                "extension": "plist",
-                "category": "Other Evidence"
-              }
-            ]
-          },
-          {
-            "name": "ZachBrunner_202407041759_1310_67642683.mp4-7.download",
-            "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-7.download",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:30:54.852953366+00:00",
-            "category": "Other Evidence",
-            "children": [
-              {
-                "name": "Info.plist",
-                "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4-7.download/Info.plist",
-                "size": 1203,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:54.852953366+00:00",
-                "extension": "plist",
-                "category": "Other Evidence"
-              }
-            ]
-          },
-          {
-            "name": "ZachBrunner_202407041759_1310_67642683.mp4.download",
-            "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4.download",
-            "size": 0,
-            "type": "directory",
-            "mtime": "2025-12-02T11:30:54.434948817+00:00",
-            "category": "Other Evidence",
-            "children": [
-              {
-                "name": "Info.plist",
-                "path": "/Dropbox_11-20-25/zac/ZachBrunner_202407041759_1310_67642683.mp4.download/Info.plist",
-                "size": 1193,
-                "type": "file",
-                "mtime": "2025-12-02T11:30:54.434948817+00:00",
-                "extension": "plist",
-                "category": "Other Evidence"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "ZachBrunner_202407041759_1310_67642683-2.mp4",
-        "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683-2.mp4",
-        "size": 591794910,
-        "type": "file",
-        "mtime": "2025-12-02T11:34:07.261052790+00:00",
-        "extension": "mp4",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "ZachBrunner_202407041759_1310_67642683.mp4-2.download",
-        "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-2.download",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T10:53:06.320120939+00:00",
-        "category": "Other Evidence",
-        "children": [
-          {
-            "name": "Info.plist",
-            "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-2.download/Info.plist",
-            "size": 1191,
-            "type": "file",
-            "mtime": "2025-12-02T10:53:06.320120939+00:00",
-            "extension": "plist",
-            "category": "Other Evidence"
-          }
-        ]
-      },
-      {
-        "name": "ZachBrunner_202407041759_1310_67642683.mp4-3.download",
-        "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-3.download",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T10:53:04.798104996+00:00",
-        "category": "Other Evidence",
-        "children": [
-          {
-            "name": "Info.plist",
-            "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-3.download/Info.plist",
-            "size": 1192,
-            "type": "file",
-            "mtime": "2025-12-02T10:53:04.798104996+00:00",
-            "extension": "plist",
-            "category": "Other Evidence"
-          }
-        ]
-      },
-      {
-        "name": "ZachBrunner_202407041759_1310_67642683.mp4-6.download",
-        "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-6.download",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T11:22:57.128673322+00:00",
-        "category": "Other Evidence",
-        "children": [
-          {
-            "name": "Info.plist",
-            "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-6.download/Info.plist",
-            "size": 1192,
-            "type": "file",
-            "mtime": "2025-12-02T11:22:57.128673322+00:00",
-            "extension": "plist",
-            "category": "Other Evidence"
-          }
-        ]
-      },
-      {
-        "name": "ZachBrunner_202407041759_1310_67642683.mp4-7.download",
-        "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-7.download",
-        "size": 0,
-        "type": "directory",
-        "mtime": "2025-12-02T11:22:55.796658331+00:00",
-        "category": "Other Evidence",
-        "children": [
-          {
-            "name": "Info.plist",
-            "path": "/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683.mp4-7.download/Info.plist",
-            "size": 1192,
-            "type": "file",
-            "mtime": "2025-12-02T11:22:55.796658331+00:00",
-            "extension": "plist",
-            "category": "Other Evidence"
-          }
-        ]
-      }
-    ]
+    "name": "JudgemyMotionToDismissCaseAlsoRefusedbyJordanChelan.jpg",
+    "folder": "MyPersonalLegalEfforts",
+    "size": 83655,
+    "type": "image/jpeg",
+    "checksum": "3f116c387e820577d05482ac2459dfd20698e17412bf06aea1a7c290f4e087bc",
+    "url": "https://example.com/files/MyPersonalLegalEfforts/JudgemyMotionToDismissCaseAlsoRefusedbyJordanChelan.jpg"
   },
   {
-    "name": "Jeremiah911Audio",
-    "path": "/Jeremiah911Audio",
-    "size": 0,
-    "type": "directory",
-    "mtime": "2025-12-02T18:18:28.501841461+00:00",
-    "category": "911 Audio",
-    "children": [
-      {
-        "name": "24C06401.wav",
-        "path": "/Jeremiah911Audio/24C06401.wav",
-        "size": 39462446,
-        "type": "file",
-        "mtime": "2025-12-02T18:18:28.501841461+00:00",
-        "extension": "wav",
-        "category": "911 Audio"
-      },
-      {
-        "name": "Screenshot 2025-09-08 at 7.51.39 AM-1-1.png",
-        "path": "/Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM-1-1.png",
-        "size": 4169354,
-        "type": "file",
-        "mtime": "2025-12-02T19:41:16.592590256+00:00",
-        "extension": "png",
-        "category": "911 Audio"
-      },
-      {
-        "name": "Screenshot 2025-09-08 at 7.51.39 AM-1.png",
-        "path": "/Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM-1.png",
-        "size": 4169354,
-        "type": "file",
-        "mtime": "2025-12-02T19:41:16.740591015+00:00",
-        "extension": "png",
-        "category": "911 Audio"
-      },
-      {
-        "name": "Screenshot 2025-09-08 at 7.51.39 AM.png",
-        "path": "/Jeremiah911Audio/Screenshot 2025-09-08 at 7.51.39 AM.png",
-        "size": 4169354,
-        "type": "file",
-        "mtime": "2025-12-02T19:41:16.592590256+00:00",
-        "extension": "png",
-        "category": "911 Audio"
-      }
-    ]
+    "name": "motionToDismiss_RyanHellChelanCounty.pdf",
+    "folder": "MyPersonalLegalEfforts",
+    "size": 51581,
+    "type": "application/pdf",
+    "checksum": "107968ae0604c0e82b84c0a3e294db178f9311924cd4c3128aae3de52c85825e",
+    "url": "https://example.com/files/MyPersonalLegalEfforts/motionToDismiss_RyanHellChelanCounty.pdf"
   },
   {
-    "name": "MisidentifiedTowCompany",
-    "path": "/MisidentifiedTowCompany",
-    "size": 0,
-    "type": "directory",
-    "mtime": "2025-12-02T17:32:36.438920387+00:00",
-    "category": "Towing Company",
-    "children": [
-      {
-        "name": "C3910175-449A-4D24-974B-CF59449049CA.pdf",
-        "path": "/MisidentifiedTowCompany/C3910175-449A-4D24-974B-CF59449049CA.pdf",
-        "size": 116595,
-        "type": "file",
-        "mtime": "2025-12-02T17:32:36.438920387+00:00",
-        "extension": "pdf",
-        "category": "Towing Company"
-      },
-      {
-        "name": "CFR-2005-title49-vol5-sec390-5.pdf",
-        "path": "/MisidentifiedTowCompany/CFR-2005-title49-vol5-sec390-5.pdf",
-        "size": 164904,
-        "type": "file",
-        "mtime": "2025-12-02T17:32:36.175917683+00:00",
-        "extension": "pdf",
-        "category": "Towing Company"
-      },
-      {
-        "name": "delinquencyNoticeSecStateWa.pdf",
-        "path": "/MisidentifiedTowCompany/delinquencyNoticeSecStateWa.pdf",
-        "size": 103908,
-        "type": "file",
-        "mtime": "2025-12-02T23:49:27.934302348+00:00",
-        "extension": "pdf",
-        "category": "Towing Company"
-      },
-      {
-        "name": "FD7D01CF-0A36-47F6-8FA3-E505BCAE556A.pdf",
-        "path": "/MisidentifiedTowCompany/FD7D01CF-0A36-47F6-8FA3-E505BCAE556A.pdf",
-        "size": 103908,
-        "type": "file",
-        "mtime": "2025-12-02T17:32:36.430920305+00:00",
-        "extension": "pdf",
-        "category": "Towing Company"
-      },
-      {
-        "name": "illegalTowOperations.jpg",
-        "path": "/MisidentifiedTowCompany/illegalTowOperations.jpg",
-        "size": 609668,
-        "type": "file",
-        "mtime": "2025-12-02T18:23:37.141462467+00:00",
-        "extension": "jpg",
-        "category": "Towing Company"
-      },
-      {
-        "name": "noticeofdisolutionSexretaryofStateWa.pdf",
-        "path": "/MisidentifiedTowCompany/noticeofdisolutionSexretaryofStateWa.pdf",
-        "size": 116595,
-        "type": "file",
-        "mtime": "2025-12-02T23:49:27.780301351+00:00",
-        "extension": "pdf",
-        "category": "Towing Company"
-      },
-      {
-        "name": "VehicleIncidentReport.png",
-        "path": "/MisidentifiedTowCompany/VehicleIncidentReport.png",
-        "size": 3613035,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:22.776912929+00:00",
-        "extension": "png",
-        "category": "Towing Company"
-      },
-      {
-        "name": "WAC 204-91A-180.pdf",
-        "path": "/MisidentifiedTowCompany/WAC 204-91A-180.pdf",
-        "size": 104044,
-        "type": "file",
-        "mtime": "2025-12-02T17:32:36.440920408+00:00",
-        "extension": "pdf",
-        "category": "Towing Company"
-      }
-    ]
+    "name": "Screenshot 2025-11-30 at 4.24.55 PM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 49045,
+    "type": "image/png",
+    "checksum": "c7b554d078656ff29fd16d706c411e9229bae922337e01df36f69fb18606d86d",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-30%20at%204.24.55 PM.png"
   },
   {
-    "name": "MyPersonalLegalEfforts",
-    "path": "/MyPersonalLegalEfforts",
-    "size": 0,
-    "type": "directory",
-    "mtime": "2025-12-02T18:55:04.493217849+00:00",
-    "category": "Legal Documents",
-    "children": [
-      {
-        "name": "CivilRightsIntakeDoJ.pdf",
-        "path": "/MyPersonalLegalEfforts/CivilRightsIntakeDoJ.pdf",
-        "size": 141306,
-        "type": "file",
-        "mtime": "2025-12-02T18:55:04.493217849+00:00",
-        "extension": "pdf",
-        "category": "Legal Documents"
-      },
-      {
-        "name": "JudgemyMotionToDismissCaseAlsoRefusedbyJordanChelan.jpg",
-        "path": "/MyPersonalLegalEfforts/JudgemyMotionToDismissCaseAlsoRefusedbyJordanChelan.jpg",
-        "size": 83655,
-        "type": "file",
-        "mtime": "2025-12-02T18:53:56.671099052+00:00",
-        "extension": "jpg",
-        "category": "Legal Documents"
-      },
-      {
-        "name": "motionToDismiss_RyanHellChelanCounty.pdf",
-        "path": "/MyPersonalLegalEfforts/motionToDismiss_RyanHellChelanCounty.pdf",
-        "size": 51581,
-        "type": "file",
-        "mtime": "2025-12-02T18:53:19.332864214+00:00",
-        "extension": "pdf",
-        "category": "Legal Documents"
-      },
-      {
-        "name": "MyMotionToPreserveEvidenceWhichWasDenied.pdf",
-        "path": "/MyPersonalLegalEfforts/MyMotionToPreserveEvidenceWhichWasDenied.pdf",
-        "size": 275091,
-        "type": "file",
-        "mtime": "2025-12-02T18:38:50.576840586+00:00",
-        "extension": "pdf",
-        "category": "Legal Documents"
-      }
-    ]
+    "name": "Screenshot 2025-11-30 at 2.46.46 PM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 106357,
+    "type": "image/png",
+    "checksum": "b7a056500155eb992ac6ff6fa98b1d83c0f78f0f31a142467645f89ce8611db5",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-30%20at%202.46.46 PM.png"
   },
   {
-    "name": "police-reports",
-    "path": "/police-reports",
-    "size": 0,
-    "type": "directory",
-    "mtime": "2025-12-02T18:13:31.408024633+00:00",
-    "category": "Police Reports",
-    "children": [
-      {
-        "name": "bookingReportDeputyBrunner.png",
-        "path": "/police-reports/bookingReportDeputyBrunner.png",
-        "size": 5657445,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:31.408024633+00:00",
-        "extension": "png",
-        "category": "Police Reports"
-      },
-      {
-        "name": "chargingDocuments.png",
-        "path": "/police-reports/chargingDocuments.png",
-        "size": 4634387,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:28.331984833+00:00",
-        "extension": "png",
-        "category": "Police Reports"
-      },
-      {
-        "name": "Chelan_2410025304_PoliceReportWork.pdf",
-        "path": "/police-reports/Chelan_2410025304_PoliceReportWork.pdf",
-        "size": 9868068,
-        "type": "file",
-        "mtime": "2025-12-02T10:49:45.435013597+00:00",
-        "extension": "pdf",
-        "category": "Police Reports"
-      },
-      {
-        "name": "ChelanPoliceReport.pdf",
-        "path": "/police-reports/ChelanPoliceReport.pdf",
-        "size": 9862112,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:46.991681024+00:00",
-        "extension": "pdf",
-        "category": "Police Reports"
-      },
-      {
-        "name": "incidentReport24C06401.png",
-        "path": "/police-reports/incidentReport24C06401.png",
-        "size": 4006070,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:26.191957137+00:00",
-        "extension": "png",
-        "category": "Police Reports"
-      },
-      {
-        "name": "incidentReportB24C06401.png",
-        "path": "/police-reports/incidentReportB24C06401.png",
-        "size": 3472342,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:19.500870508+00:00",
-        "extension": "png",
-        "category": "Police Reports"
-      },
-      {
-        "name": "incidentSignature.png",
-        "path": "/police-reports/incidentSignature.png",
-        "size": 3301094,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:18.087852207+00:00",
-        "extension": "png",
-        "category": "Police Reports"
-      },
-      {
-        "name": "ORIGINAL_Scan044.pdf",
-        "path": "/police-reports/ORIGINAL_Scan044.pdf",
-        "size": 9862112,
-        "type": "file",
-        "mtime": "2025-12-02T10:49:58.260148350+00:00",
-        "extension": "pdf",
-        "category": "Police Reports"
-      },
-      {
-        "name": "Page5-cpd-pr.pdf",
-        "path": "/police-reports/Page5-cpd-pr.pdf",
-        "size": 347158,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:36.489516038+00:00",
-        "extension": "pdf",
-        "category": "Police Reports"
-      },
-      {
-        "name": "trespassOrder.png",
-        "path": "/police-reports/trespassOrder.png",
-        "size": 4167098,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:27.040968125+00:00",
-        "extension": "png",
-        "category": "Police Reports"
-      }
-    ]
+    "name": "Screenshot 2025-11-25 at 4.47.26 PM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 97486,
+    "type": "image/png",
+    "checksum": "34eb6e4e1ab19620a62600ff0fe51b77f370e4649876734c80e3ccfa4b5aa597",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-25%20at%204.47.26 PM.png"
   },
   {
-    "name": "ryansImageSet",
-    "path": "/ryansImageSet",
-    "size": 0,
-    "type": "directory",
-    "mtime": "2025-12-02T10:55:30.718357582+00:00",
-    "category": "Other Evidence",
-    "children": [
-      {
-        "name": "527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg",
-        "path": "/ryansImageSet/527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg",
-        "size": 61998,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:30.718357582+00:00",
-        "extension": "jpeg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "74181379896__534F6905-2FDE-499A-A864-8DA48EE57F8A.fullsizerender.JPG",
-        "path": "/ryansImageSet/74181379896__534F6905-2FDE-499A-A864-8DA48EE57F8A.fullsizerender.JPG",
-        "size": 5220368,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:22.217319233+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.JPG",
-        "path": "/ryansImageSet/74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.JPG",
-        "size": 4873307,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:56.935755614+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.MOV",
-        "path": "/ryansImageSet/74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.MOV",
-        "size": 3236065,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:05.312110380+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "99511A03-519D-473F-AC32-4FCA26032F52.jpeg",
-        "path": "/ryansImageSet/99511A03-519D-473F-AC32-4FCA26032F52.jpeg",
-        "size": 317603,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:29.976346238+00:00",
-        "extension": "jpeg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6327.MOV",
-        "path": "/ryansImageSet/IMG_6327.MOV",
-        "size": 11568322,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:45.828587656+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6339.JPG",
-        "path": "/ryansImageSet/IMG_6339.JPG",
-        "size": 1085794,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:39.688605696+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6347.JPG",
-        "path": "/ryansImageSet/IMG_6347.JPG",
-        "size": 777755,
-        "type": "file",
-        "mtime": "2025-12-02T10:56:32.262283503+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6355.JPG",
-        "path": "/ryansImageSet/IMG_6355.JPG",
-        "size": 859139,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:43.448551537+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6355.MOV",
-        "path": "/ryansImageSet/IMG_6355.MOV",
-        "size": 2588750,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:04.771104713+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6356.JPG",
-        "path": "/ryansImageSet/IMG_6356.JPG",
-        "size": 913808,
-        "type": "file",
-        "mtime": "2025-12-02T10:56:10.348957162+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6358.JPG",
-        "path": "/ryansImageSet/IMG_6358.JPG",
-        "size": 1056556,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:36.340443402+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6370.JPG",
-        "path": "/ryansImageSet/IMG_6370.JPG",
-        "size": 615987,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:32.631386814+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6370.MOV",
-        "path": "/ryansImageSet/IMG_6370.MOV",
-        "size": 667464,
-        "type": "file",
-        "mtime": "2025-12-02T10:59:14.044593738+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6372.JPG",
-        "path": "/ryansImageSet/IMG_6372.JPG",
-        "size": 989683,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:45.156652269+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6373.JPG",
-        "path": "/ryansImageSet/IMG_6373.JPG",
-        "size": 1138733,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:00.286888476+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6375.JPG",
-        "path": "/ryansImageSet/IMG_6375.JPG",
-        "size": 1929243,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:20.612264684+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6382.JPG",
-        "path": "/ryansImageSet/IMG_6382.JPG",
-        "size": 3203559,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:43.436551355+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6389.JPG",
-        "path": "/ryansImageSet/IMG_6389.JPG",
-        "size": 1773211,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:38.957554901+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6390.MOV",
-        "path": "/ryansImageSet/IMG_6390.MOV",
-        "size": 4601348,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:38.651588781+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6392.JPG",
-        "path": "/ryansImageSet/IMG_6392.JPG",
-        "size": 3034862,
-        "type": "file",
-        "mtime": "2025-12-02T10:57:20.128984386+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6392.MOV",
-        "path": "/ryansImageSet/IMG_6392.MOV",
-        "size": 5518145,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:15.744187145+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6393.JPG",
-        "path": "/ryansImageSet/IMG_6393.JPG",
-        "size": 1756605,
-        "type": "file",
-        "mtime": "2025-12-02T10:56:53.793600752+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6393.MOV",
-        "path": "/ryansImageSet/IMG_6393.MOV",
-        "size": 5677963,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:00.859948666+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6396.MOV",
-        "path": "/ryansImageSet/IMG_6396.MOV",
-        "size": 4816024,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:09.818157577+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6399.MOV",
-        "path": "/ryansImageSet/IMG_6399.MOV",
-        "size": 3861478,
-        "type": "file",
-        "mtime": "2025-12-02T10:58:42.775159529+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6400.JPG",
-        "path": "/ryansImageSet/IMG_6400.JPG",
-        "size": 2588171,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:55.347811590+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6403.MOV",
-        "path": "/ryansImageSet/IMG_6403.MOV",
-        "size": 5386234,
-        "type": "file",
-        "mtime": "2025-12-02T10:59:10.216540868+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6413.MOV",
-        "path": "/ryansImageSet/IMG_6413.MOV",
-        "size": 2888830,
-        "type": "file",
-        "mtime": "2025-12-02T10:58:19.641834765+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6414.MOV",
-        "path": "/ryansImageSet/IMG_6414.MOV",
-        "size": 1569340,
-        "type": "file",
-        "mtime": "2025-12-02T10:58:39.242110126+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6423.JPG",
-        "path": "/ryansImageSet/IMG_6423.JPG",
-        "size": 5566298,
-        "type": "file",
-        "mtime": "2025-12-02T10:58:09.430690408+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6423.MOV",
-        "path": "/ryansImageSet/IMG_6423.MOV",
-        "size": 3994395,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:07.804060192+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6425.JPG",
-        "path": "/ryansImageSet/IMG_6425.JPG",
-        "size": 3398137,
-        "type": "file",
-        "mtime": "2025-12-02T10:56:25.598184636+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6425.MOV",
-        "path": "/ryansImageSet/IMG_6425.MOV",
-        "size": 5582382,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:35.839542858+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6428.JPG",
-        "path": "/ryansImageSet/IMG_6428.JPG",
-        "size": 4126096,
-        "type": "file",
-        "mtime": "2025-12-02T10:54:56.415828233+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6432.MOV",
-        "path": "/ryansImageSet/IMG_6432.MOV",
-        "size": 2582365,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:15.558217697+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6433.JPG",
-        "path": "/ryansImageSet/IMG_6433.JPG",
-        "size": 2578557,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:50.621660254+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6436.JPG",
-        "path": "/ryansImageSet/IMG_6436.JPG",
-        "size": 5132938,
-        "type": "file",
-        "mtime": "2025-12-02T10:57:11.023852282+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6436.MOV",
-        "path": "/ryansImageSet/IMG_6436.MOV",
-        "size": 4144481,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:57.348892094+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6441.JPG",
-        "path": "/ryansImageSet/IMG_6441.JPG",
-        "size": 6015923,
-        "type": "file",
-        "mtime": "2025-12-02T10:59:13.468585787+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6443.MOV",
-        "path": "/ryansImageSet/IMG_6443.MOV",
-        "size": 9329514,
-        "type": "file",
-        "mtime": "2025-12-02T10:55:32.809389532+00:00",
-        "extension": "mov",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6446.JPG",
-        "path": "/ryansImageSet/IMG_6446.JPG",
-        "size": 624864,
-        "type": "file",
-        "mtime": "2025-12-02T10:58:35.047051376+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6448.JPG",
-        "path": "/ryansImageSet/IMG_6448.JPG",
-        "size": 2328613,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:54.981853888+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6456.JPG",
-        "path": "/ryansImageSet/IMG_6456.JPG",
-        "size": 6414518,
-        "type": "file",
-        "mtime": "2025-12-02T10:58:58.442377753+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6458.JPG",
-        "path": "/ryansImageSet/IMG_6458.JPG",
-        "size": 1621388,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:12.368184287+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      },
-      {
-        "name": "IMG_6459.JPG",
-        "path": "/ryansImageSet/IMG_6459.JPG",
-        "size": 2313255,
-        "type": "file",
-        "mtime": "2025-12-02T10:53:03.988096511+00:00",
-        "extension": "jpg",
-        "category": "Other Evidence"
-      }
-    ]
+    "name": "Screenshot 2025-11-25 at 4.45.53 PM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 97608,
+    "type": "image/png",
+    "checksum": "5a57278b8298bd8154bb5ec5d7934d2b4098ba0eac73d793e804566b7eea0e69",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-25%20at%204.45.53 PM.png"
   },
   {
-    "name": "Screenshot 2025-09-04 at 12.45.32 AM.png",
-    "path": "/Screenshot 2025-09-04 at 12.45.32 AM.png",
-    "size": 1588802,
-    "type": "file",
-    "mtime": "2025-12-02T19:42:46.042086396+00:00",
-    "extension": "png",
-    "category": "Other Evidence"
+    "name": "Screenshot 2025-11-30 at 2.43.05 PM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 287025,
+    "type": "image/png",
+    "checksum": "6f40d822c4577af8a7af1e436bc1a8b7b24da20415b190d578e490005c7e2d3a",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-30%20at%202.43.05 PM.png"
+  },
+  {
+    "name": "Screenshot 2025-11-20 at 11.03.44 AM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 7363924,
+    "type": "image/png",
+    "checksum": "fd4190700ef0bab44cf303e8b2b6439a7529a03861409a52d87876f5b5d8971e",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-20%20at%2011.03.44 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-11-20 at 10.59.45 AM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 6957152,
+    "type": "image/png",
+    "checksum": "45c8e1f9c80c4692e610738964fb7fab4c984f80a71f34e9f57c9ca57a35a195",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-20%20at%2010.59.45 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-11-30 at 2.47.54 PM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 125568,
+    "type": "image/png",
+    "checksum": "2885ac2668e81e9f51e8e842c7bad1ae322997195834a23d8e53017886fd4d3f",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-30%20at%202.47.54 PM.png"
+  },
+  {
+    "name": "Screenshot 2025-11-20 at 11.03.45 AM.png",
+    "folder": "Dropbox_11-20-25/zac",
+    "size": 7442051,
+    "type": "image/png",
+    "checksum": "f0b08721f13cc71986a86ce49bcae778c74c31cbe37a0019d35486f8105172c0",
+    "url": "https://example.com/files/Dropbox_11-20-25/zac/Screenshot%202025-11-20%20at%2011.03.45 AM.png"
+  },
+  {
+    "name": "Screenshot_20240705_165252_Gallery.jpg",
+    "folder": "Dropbox_11-20-25/Hell, Ryan",
+    "size": 850469,
+    "type": "image/jpeg",
+    "checksum": "185504ceaac78e0c64fe4a78b1739832095d16cb9601a805255353882755f649",
+    "url": "https://example.com/files/Dropbox_11-20-25/Hell,%20Ryan/Screenshot_20240705_165252_Gallery.jpg"
+  },
+  {
+    "name": "Screenshot_20240705_165748_Gallery.jpg",
+    "folder": "Dropbox_11-20-25/Hell, Ryan",
+    "size": 656591,
+    "type": "image/jpeg",
+    "checksum": "597d9a39b66ae3e1d558c3c353e1dd911344dba5ea1c24251083e07d67da1db8",
+    "url": "https://example.com/files/Dropbox_11-20-25/Hell,%20Ryan/Screenshot_20240705_165748_Gallery.jpg"
+  },
+  {
+    "name": "Screenshot_20240705_165756_Gallery.jpg",
+    "folder": "Dropbox_11-20-25/Hell, Ryan",
+    "size": 689710,
+    "type": "image/jpeg",
+    "checksum": "91cd133775ef86125cfe6114ff177348e50af53c59df7cd2488160160c566ccd",
+    "url": "https://example.com/files/Dropbox_11-20-25/Hell,%20Ryan/Screenshot_20240705_165756_Gallery.jpg"
+  },
+  {
+    "name": "Screenshot_20240705_165436_Gallery.jpg",
+    "folder": "Dropbox_11-20-25/Hell, Ryan",
+    "size": 533521,
+    "type": "image/jpeg",
+    "checksum": "1c5ba547c87f8b208b8c473631d74efb3d9a11271aad3ea7b247a623021fd1ba",
+    "url": "https://example.com/files/Dropbox_11-20-25/Hell,%20Ryan/Screenshot_20240705_165436_Gallery.jpg"
+  },
+  {
+    "name": "Screenshot_20240705_165352_Gallery.jpg",
+    "folder": "Dropbox_11-20-25/Hell, Ryan",
+    "size": 542007,
+    "type": "image/jpeg",
+    "checksum": "50ef891903161c03f2f1df827611ae093c6335a9bb80c684b3fb178f96452000",
+    "url": "https://example.com/files/Dropbox_11-20-25/Hell,%20Ryan/Screenshot_20240705_165352_Gallery.jpg"
+  },
+  {
+    "name": "Untitled.jpg",
+    "folder": "Dropbox_11-20-25",
+    "size": 992562,
+    "type": "image/jpeg",
+    "checksum": "4aaac3e3e700ce4c00465d9a8d44060653627f609d667ad32d0b088a6f7117e0",
+    "url": "https://example.com/files/Dropbox_11-20-25/Untitled.jpg"
+  },
+  {
+    "name": "AdamMusgrove_202407041734_1274_27294709___unkmnownVER.mp4",
+    "folder": "Dropbox_11-20-25",
+    "size": 468065077,
+    "type": "video/mp4",
+    "checksum": "e9e5d88260b7b28defb37a1adb31eb879eaa65ccdf58b0c19435cad8cb26b4bd",
+    "url": "https://example.com/files/Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709___unkmnownVER.mp4"
+  },
+  {
+    "name": "ZachBrunner_202407041759_1310_67642683-2.mp4",
+    "folder": "Dropbox_11-20-25",
+    "size": 591794910,
+    "type": "video/mp4",
+    "checksum": "8a0bd589ad16b2eb09cc711ca858ef8b74007475e17d8f81c91f8b5c56fc748e",
+    "url": "https://example.com/files/Dropbox_11-20-25/ZachBrunner_202407041759_1310_67642683-2.mp4"
+  },
+  {
+    "name": "AdamMusgrove_202407041734_1274_27294709.mp4",
+    "folder": "Dropbox_11-20-25",
+    "size": 468065077,
+    "type": "video/mp4",
+    "checksum": "e9e5d88260b7b28defb37a1adb31eb879eaa65ccdf58b0c19435cad8cb26b4bd",
+    "url": "https://example.com/files/Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709.mp4"
+  },
+  {
+    "name": "AdamMusgrove_202407041734_1274_27294709-2.mp4",
+    "folder": "Dropbox_11-20-25",
+    "size": 604860773,
+    "type": "video/mp4",
+    "checksum": "11af47464bb28006d7a4f773dae130918baa2eeef6faf31b7d1ea090c63841dd",
+    "url": "https://example.com/files/Dropbox_11-20-25/AdamMusgrove_202407041734_1274_27294709-2.mp4"
+  },
+  {
+    "name": "24C06391.pdf",
+    "folder": "Dropbox_11-20-25/PRR",
+    "size": 95769,
+    "type": "application/pdf",
+    "checksum": "3ea49e4e4894a6e3ca7856ec5887abe39b99c7084906de0171546ff05b552345",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/24C06391.pdf"
+  },
+  {
+    "name": "BandTTowSSNoticeofDissolutioin.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 122876,
+    "type": "application/pdf",
+    "checksum": "77ae326556e81e92125642d6a0dc02df16fa8a85bc5c15500ca03e7826c65057",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/BandTTowSSNoticeofDissolutioin.pdf"
+  },
+  {
+    "name": "IMG_6456.JPG",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4597524,
+    "type": "image/jpeg",
+    "checksum": "28bb3f1782cebd863c2d55ae260216afcc9b14f6286edfdd5f3931b5d6453eef",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6456.JPG"
+  },
+  {
+    "name": "IMG_6441.JPG",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 5288912,
+    "type": "image/jpeg",
+    "checksum": "c041b2d0f295b11f7f21175e4063d9dd7543e56592128b5669678f231e8a67e3",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6441.JPG"
+  },
+  {
+    "name": "Screenshot 2025-09-08 at 7.51.39 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4169354,
+    "type": "image/png",
+    "checksum": "a9c04866f30410401dd858d1c233c8266fca342805ae101b04ec7c1adb75f4d7",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-08%20at%207.51.39 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-08-20 at 3.23.16 PM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 155919,
+    "type": "image/png",
+    "checksum": "59c8296d8bab20ffde217d1ebaff5df52d3cd3130b76f246f9c31bd078f4912f",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-20%20at%203.23.16 PM.png"
+  },
+  {
+    "name": "IMG_6446.JPG",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 624864,
+    "type": "image/jpeg",
+    "checksum": "cb478b621b916190e06a06ad687c79fe627a455454520a7e01ef6f670e6d4496",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6446.JPG"
+  },
+  {
+    "name": "527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 61998,
+    "type": "image/jpeg",
+    "checksum": "cc57acc39ba8a60a6827632e41883b9dd78a54e456560b7c5b89b1b479b96c27",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg"
+  },
+  {
+    "name": "Search results - ryanbrooklyn2020@gmail.com - Gmail copy.jpg",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 220821,
+    "type": "image/jpeg",
+    "checksum": "bce9bd7d91338326e82bc8dafc381cb589480d63c28da6e9db29e15f2b8fab3d",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Search%20results%20-%20ryanbrooklyn2020@gmail.com%20-%20Gmail%20copy.jpg"
+  },
+  {
+    "name": "Screenshot 2025-08-19 at 11.23.17 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4575611,
+    "type": "image/png",
+    "checksum": "2e4d2d30192ae6994e332919c1d0bbe8c0fb69635d6042d7847b8ba74717f503",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-19%20at%2011.23.17 AM.png"
+  },
+  {
+    "name": "cad.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 224995,
+    "type": "application/pdf",
+    "checksum": "7e348d11aac33f6bee6897b0c77f456e46258548b03baddbd1519d585f04825c",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/cad.pdf"
+  },
+  {
+    "name": "Chelan_2410025304_PoliceReportWork.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 9868068,
+    "type": "application/pdf",
+    "checksum": "6382678c35e594326ab4724a64fd13448847b43242bf5df093b96685c6944e83",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Chelan_2410025304_PoliceReportWork.pdf"
+  },
+  {
+    "name": "truckLicensinf.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 289906,
+    "type": "image/png",
+    "checksum": "07541f96d960048dc24449e9c724b6e10315dae52dd004cc5d3fbdb99f402eb1",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/truckLicensinf.png"
+  },
+  {
+    "name": "Screenshot 2025-08-19 at 11.23.02 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 3277185,
+    "type": "image/png",
+    "checksum": "cda4c2839829a9fab147117e0ad93c38279f20fb9ec87f67160a7a93c76cc059",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-19%20at%2011.23.02 AM.png"
+  },
+  {
+    "name": "20240704_173916.json-metadata.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 284631,
+    "type": "application/pdf",
+    "checksum": "3c57a95647d1d96bd5ebdf87db82d949e06c96c38cdc4e4e0aee8d1ab58f37f8",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/20240704_173916.json-metadata.pdf"
+  },
+  {
+    "name": "Screenshot 2025-08-19 at 11.23.10 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 5195143,
+    "type": "image/png",
+    "checksum": "aced79f29f73839c3ac4f06460b4bd2b562c4b0b31f258929ae61b0ea6c47cf8",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-19%20at%2011.23.10 AM.png"
+  },
+  {
+    "name": "F2660D94-5517-44E8-A863-48EB6CFA51E3_1_102_a copy.jpeg",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 690877,
+    "type": "image/jpeg",
+    "checksum": "fb9ca5efa2970b943efdbe4c3b7baf604860e53bad44f2a2c4112deaa7a345d2",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/F2660D94-5517-44E8-A863-48EB6CFA51E3_1_102_a%20copy.jpeg"
+  },
+  {
+    "name": "IMG_6452.JPG",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4856193,
+    "type": "image/jpeg",
+    "checksum": "fd7f0311e993ef5af044bc6b3e269548f891eccd9b200b618a020f1ff23395ab",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6452.JPG"
+  },
+  {
+    "name": "IMG_6453.JPG",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4604523,
+    "type": "image/jpeg",
+    "checksum": "568f9144bf9326d4f8212f5c933820cc6710a9a987dc46d390e697cadbcd5fbd",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6453.JPG"
+  },
+  {
+    "name": "Screenshot 2025-09-02 at 12.49.10 PM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 357645,
+    "type": "image/png",
+    "checksum": "f43b0840383929332f6f2af585682117c3b9f4a8c12df28530054a7e31639a3b",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-02%20at%2012.49.10 PM.png"
+  },
+  {
+    "name": "Screenshot 2025-09-11 at 1.09.37 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 133458,
+    "type": "image/png",
+    "checksum": "5484d4a8c0e5166a83b12ddce846a2c1e334a5d3fc525ccda2ee454e7e20306b",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-11%20at%201.09.37 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-08-20 at 1.52.30 PM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 538211,
+    "type": "image/png",
+    "checksum": "ef1e3b738fea71899421bd12becd57afe2967f60ea977645536a0c1d196ed32f",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-20%20at%201.52.30 PM.png"
+  },
+  {
+    "name": "illegal.jpg",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 572824,
+    "type": "image/jpeg",
+    "checksum": "e816ddb79b568d1c699a5f9c968392f01eb761d165b0252153c41eedac49701e",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/illegal.jpg"
   },
   {
     "name": "Screenshot 2025-09-04 at 12.49.04 AM.png",
-    "path": "/Screenshot 2025-09-04 at 12.49.04 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
     "size": 1593929,
-    "type": "file",
-    "mtime": "2025-12-02T19:42:19.357930916+00:00",
-    "extension": "png",
-    "category": "Other Evidence"
+    "type": "image/png",
+    "checksum": "8df50045fc0b610791e4d5a0113ccfdb81f251d4e7b3133ac8dd9bfda5fcd102",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-04%20at%2012.49.04 AM.png"
   },
   {
-    "name": "Screenshot 2025-09-04 at 2.27.34 AM.png",
-    "path": "/Screenshot 2025-09-04 at 2.27.34 AM.png",
+    "name": "Screenshot 2025-09-08 at 8.44.16 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4437183,
+    "type": "image/png",
+    "checksum": "579446fc576070c46f968ebd6f945a295ae042b0027fe3a149074254cb66d9a2",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-08%20at%208.44.16 AM.png"
+  },
+  {
+    "name": "Exhinbit_A.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 50002,
+    "type": "application/pdf",
+    "checksum": "7bed940aa38721537d02bea0468e491865784e579cb12383685e2bc846bb192f",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Exhinbit_A.pdf"
+  },
+  {
+    "name": "96FEA413-BFCC-4ED4-B644-89FA5749A714.PDF",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 122099,
+    "type": "application/pdf",
+    "checksum": "272f181054db33512dea9d18f1c3cee5b62c429a02277a290c5bca84f1d1cdb5",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/96FEA413-BFCC-4ED4-B644-89FA5749A714.PDF"
+  },
+  {
+    "name": "78BE6AB2-B6D8-4B7B-A7BB-ECE8146279EC.jpeg",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 42911,
+    "type": "image/jpeg",
+    "checksum": "cee5b0ef5e8171602939b412f10e365f5603aa7a0d00ff45c5fe50e4de89ca22",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/78BE6AB2-B6D8-4B7B-A7BB-ECE8146279EC.jpeg"
+  },
+  {
+    "name": "3C6B13AC-EA4A-4FEA-A057-9065662413F7_1_102_a copy.jpeg",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 1004574,
+    "type": "image/jpeg",
+    "checksum": "0d0722335d45f769b5023acb6af7007228694dd389c5d6b03fd9cd788201c3f4",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/3C6B13AC-EA4A-4FEA-A057-9065662413F7_1_102_a%20copy.jpeg"
+  },
+  {
+    "name": "IMG_6449.JPG",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 2204876,
+    "type": "image/jpeg",
+    "checksum": "91e85c0902bec9e612cc54254c793bbeed67372ba86622b7fcc17c9ca270a4b0",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6449.JPG"
+  },
+  {
+    "name": "3dToolUsed.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 2995701,
+    "type": "application/pdf",
+    "checksum": "9167200208f4d4703f67f887be683f3020a62c380726ab49418706ae44651398",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/3dToolUsed.pdf"
+  },
+  {
+    "name": "Screenshot 2025-08-19 at 11.22.40 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 3808304,
+    "type": "image/png",
+    "checksum": "b31160a36924909ed862fadc9a5ec97f004ac30ae1ba654777083ed30c2320a1",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-19%20at%2011.22.40 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-08-19 at 11.23.06 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4665620,
+    "type": "image/png",
+    "checksum": "6743fad1da323f4d3da57b5cd6b1d1626f6bcca1b40e35d37efcd04b8b6a94a8",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-19%20at%2011.23.06 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-09-04 at 12.45.32 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 1588802,
+    "type": "image/png",
+    "checksum": "a3aa693fb6a4b9081e21e98e1c75bced9edcd773043db44713fbe4b8fab49769",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-04%20at%2012.45.32 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-09-05 at 2.45.20 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 1046579,
+    "type": "image/png",
+    "checksum": "9176643f3680d0abe70c83735a7e21d3d6786bbb3f587ae4a5db1a8aae43637d",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-05%20at%202.45.20 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-08-19 at 11.23.08 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4681540,
+    "type": "image/png",
+    "checksum": "d48edc6a0b13fc5b90d25e0ce3ca68c4701232fe6aa1b5ca77e28c266051f6a4",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-19%20at%2011.23.08 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-09-04 at 1.52.53 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 487029,
+    "type": "image/png",
+    "checksum": "97d9c02002495e642f26882c535ef7baa293dce2c7654c92afc4ce8ef7269c4a",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-04%20at%201.52.53 AM.png"
+  },
+  {
+    "name": "ChelanSheriffs.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 9862112,
+    "type": "application/pdf",
+    "checksum": "737875a58fc47d37ae954022726322b7ee5d37d16dd7c56d1a5a4050f57f2763",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/ChelanSheriffs.pdf"
+  },
+  {
+    "name": "Screenshot 2025-09-11 at 1.15.57 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 407094,
+    "type": "image/png",
+    "checksum": "9ffa5c6fc2c37805ae6028791bfb0cac7afc1924d4ba71e2d40f97330fec1d2e",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-11%20at%201.15.57 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-08-18 at 9.45.24 PM copy.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4396922,
+    "type": "image/png",
+    "checksum": "dd20e37e82e77071fd5c8cc4b5d1b26a844c2ab88441faa5136c056a66731912",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-08-18%20at%209.45.24 PM%20copy.png"
+  },
+  {
+    "name": "ChelanCountySheriff_2410025304.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 9868068,
+    "type": "application/pdf",
+    "checksum": "6382678c35e594326ab4724a64fd13448847b43242bf5df093b96685c6944e83",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/ChelanCountySheriff_2410025304.pdf"
+  },
+  {
+    "name": "Screenshot 2025-09-16 at 3.06.56 PM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 365127,
+    "type": "image/png",
+    "checksum": "d9c30c73640410bb9bdc1370361be0749481261c55db806431a3678ad31e786d",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-16%20at%203.06.56 PM.png"
+  },
+  {
+    "name": "Screenshot 2025-09-16 at 3.06.34 PM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 323285,
+    "type": "image/png",
+    "checksum": "c4f665fb877ce3a9cee3d3cc97c6bf2fb63b5370ad66ec6b1a2477e247d85bf4",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-16%20at%203.06.34 PM.png"
+  },
+  {
+    "name": "IMG_6447.JPG",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 4513511,
+    "type": "image/jpeg",
+    "checksum": "849d699b3b89032559ace9c1df7348cb390cf019b3fa500b4638c87e78ca3a9a",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/IMG_6447.JPG"
+  },
+  {
+    "name": "Screenshot 2025-09-11 at 1.01.17 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 230220,
+    "type": "image/png",
+    "checksum": "6fe00948e18c34d84d39ffe82f0bd1fab25ef4894560a9df1851d8170e73f38c",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-11%20at%201.01.17 AM.png"
+  },
+  {
+    "name": "motionToDismiss_RyanHellChelanCounty.pdf",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 51581,
+    "type": "application/pdf",
+    "checksum": "107968ae0604c0e82b84c0a3e294db178f9311924cd4c3128aae3de52c85825e",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/motionToDismiss_RyanHellChelanCounty.pdf"
+  },
+  {
+    "name": "Screenshot 2025-09-04 at 2.27.50 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 64157,
+    "type": "image/png",
+    "checksum": "632c69c988bf4c6d6c807c4520835518623b22d7e4835cff4b2944d74941e785",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-04%20at%202.27.50 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-09-11 at 1.20.32 AM.png",
+    "folder": "Dropbox_11-20-25/PRR/ChelanPrints",
+    "size": 89075,
+    "type": "image/png",
+    "checksum": "709b8aceeb280ae8b9548e9c635823aed5779b7914da5dcc399f8dc477529142",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ChelanPrints/Screenshot%202025-09-11%20at%201.20.32 AM.png"
+  },
+  {
+    "name": "ZachBrunner_202407041759_1310_67642683-2.mp4",
+    "folder": "Dropbox_11-20-25/PRR",
+    "size": 591794910,
+    "type": "video/mp4",
+    "checksum": "8a0bd589ad16b2eb09cc711ca858ef8b74007475e17d8f81c91f8b5c56fc748e",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/ZachBrunner_202407041759_1310_67642683-2.mp4"
+  },
+  {
+    "name": "24C06401_R.pdf",
+    "folder": "Dropbox_11-20-25/PRR",
+    "size": 223243,
+    "type": "application/pdf",
+    "checksum": "640e8d71c72ee5fd17dc6b99cc06c644e10c459165abf7b982d460a7f77b4545",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/24C06401_R.pdf"
+  },
+  {
+    "name": "24C06401.wav",
+    "folder": "Dropbox_11-20-25/PRR",
+    "size": 39462446,
+    "type": "audio/x-wav",
+    "checksum": "5a4d450ff408711ed6b7369ee7d590a3f73efe0b8cce166dabf7af54dd4f6482",
+    "url": "https://example.com/files/Dropbox_11-20-25/PRR/24C06401.wav"
+  },
+  {
+    "name": "20240704_174521.mp4",
+    "folder": "ChelanVideos",
+    "size": 1802240,
+    "type": "video/mp4",
+    "checksum": "d69d24deab4c8de3f52bc31a42ced5f389be7e43fc3501f2bffd1e1180cdb60d",
+    "url": "https://example.com/files/ChelanVideos/20240704_174521.mp4"
+  },
+  {
+    "name": "20240704_174521.mp4",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 124673658,
+    "type": "video/mp4",
+    "checksum": "d6cd70beefbaf0d451b77fad6ee134096c348a95ad122427f186779ea9c11717",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/20240704_174521.mp4"
+  },
+  {
+    "name": "Screenshot_20240705_165252_Gallery.jpg",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 850469,
+    "type": "image/jpeg",
+    "checksum": "185504ceaac78e0c64fe4a78b1739832095d16cb9601a805255353882755f649",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/Screenshot_20240705_165252_Gallery.jpg"
+  },
+  {
+    "name": "Screenshot_20240705_165748_Gallery.jpg",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 656591,
+    "type": "image/jpeg",
+    "checksum": "597d9a39b66ae3e1d558c3c353e1dd911344dba5ea1c24251083e07d67da1db8",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/Screenshot_20240705_165748_Gallery.jpg"
+  },
+  {
+    "name": "Screenshot_20240705_165756_Gallery.jpg",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 689710,
+    "type": "image/jpeg",
+    "checksum": "91cd133775ef86125cfe6114ff177348e50af53c59df7cd2488160160c566ccd",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/Screenshot_20240705_165756_Gallery.jpg"
+  },
+  {
+    "name": "Screenshot_20240705_165436_Gallery.jpg",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 533521,
+    "type": "image/jpeg",
+    "checksum": "1c5ba547c87f8b208b8c473631d74efb3d9a11271aad3ea7b247a623021fd1ba",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/Screenshot_20240705_165436_Gallery.jpg"
+  },
+  {
+    "name": "20240704_173916.mp4",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 107034115,
+    "type": "video/mp4",
+    "checksum": "f8f263442ff638a3adbd0690ef8892d5b4e229426782feffef1299209846a18b",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/20240704_173916.mp4"
+  },
+  {
+    "name": "AdamMusgrove_202407041734_1274_27294709-2.mp4",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 604860773,
+    "type": "video/mp4",
+    "checksum": "11af47464bb28006d7a4f773dae130918baa2eeef6faf31b7d1ea090c63841dd",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/AdamMusgrove_202407041734_1274_27294709-2.mp4"
+  },
+  {
+    "name": "Screenshot_20240705_165352_Gallery.jpg",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 542007,
+    "type": "image/jpeg",
+    "checksum": "50ef891903161c03f2f1df827611ae093c6335a9bb80c684b3fb178f96452000",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/Screenshot_20240705_165352_Gallery.jpg"
+  },
+  {
+    "name": "20240704_174847.mp4",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 50237323,
+    "type": "video/mp4",
+    "checksum": "4c2d7762945f6204e90fbdfd5c4899aac7d8565c6c25773c886a7e9b83671991",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/20240704_174847.mp4"
+  },
+  {
+    "name": "20240704_174944.mp4",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 117733875,
+    "type": "video/mp4",
+    "checksum": "25c86a6f31bb8769d27dbcd2dfae303afba494f1ae1cf68df0b52d8cd33dd6c5",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/20240704_174944.mp4"
+  },
+  {
+    "name": "24C06401.wav",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 39462446,
+    "type": "audio/x-wav",
+    "checksum": "5a4d450ff408711ed6b7369ee7d590a3f73efe0b8cce166dabf7af54dd4f6482",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/24C06401.wav"
+  },
+  {
+    "name": "20240704_174640.mp4",
+    "folder": "ChelanVideos/Hell, Ryan",
+    "size": 31956445,
+    "type": "video/mp4",
+    "checksum": "bc91226d02e17681633169c6e4cb92ca7b996e374192175bf90e2e51c125470c",
+    "url": "https://example.com/files/ChelanVideos/Hell,%20Ryan/20240704_174640.mp4"
+  },
+  {
+    "name": "20240704_174847.mp4",
+    "folder": "ChelanVideos",
+    "size": 2031616,
+    "type": "video/mp4",
+    "checksum": "027be61da050af812baca3a694f01bcb4ca797a081b5469a43d5cb13ed9b9777",
+    "url": "https://example.com/files/ChelanVideos/20240704_174847.mp4"
+  },
+  {
+    "name": "20240704_174944.mp4",
+    "folder": "ChelanVideos",
+    "size": 1867776,
+    "type": "video/mp4",
+    "checksum": "0e4d3ce719a749af38a630cf2d6d6385f2950e7adc485912309ace91992f0fd1",
+    "url": "https://example.com/files/ChelanVideos/20240704_174944.mp4"
+  },
+  {
+    "name": "24C06401.wav",
+    "folder": "ChelanVideos",
+    "size": 39462446,
+    "type": "audio/x-wav",
+    "checksum": "5a4d450ff408711ed6b7369ee7d590a3f73efe0b8cce166dabf7af54dd4f6482",
+    "url": "https://example.com/files/ChelanVideos/24C06401.wav"
+  },
+  {
+    "name": "20240704_174640.mp4",
+    "folder": "ChelanVideos",
+    "size": 1966080,
+    "type": "video/mp4",
+    "checksum": "cc3c70183c4c86f7a986f5430dba9c57ebed7cf476711087cec69e70029136ee",
+    "url": "https://example.com/files/ChelanVideos/20240704_174640.mp4"
+  },
+  {
+    "name": "Screenshot_2025-09-04_at_12.45.32 AM.png",
+    "folder": ".",
+    "size": 1588802,
+    "type": "image/png",
+    "checksum": "a3aa693fb6a4b9081e21e98e1c75bced9edcd773043db44713fbe4b8fab49769",
+    "url": "https://example.com/files/Screenshot_2025-09-04_at_12.45.32 AM.png"
+  },
+  {
+    "name": "Screenshot_2025-09-04_at_2.27.34 AM.png",
+    "folder": ".",
     "size": 100309,
-    "type": "file",
-    "mtime": "2025-12-02T19:43:17.367276395+00:00",
-    "extension": "png",
-    "category": "Other Evidence"
+    "type": "image/png",
+    "checksum": "b7d5ae8306972aa2043b8b74b658f8fd7679fd1dcba15e11bf80e9237197f97e",
+    "url": "https://example.com/files/Screenshot_2025-09-04_at_2.27.34 AM.png"
+  },
+  {
+    "name": "illegalTowOperations.jpg",
+    "folder": "MisidentifiedTowCompany",
+    "size": 609668,
+    "type": "image/jpeg",
+    "checksum": "2383b5c25ab379d711fe4f451314e049a4b93c06b678d89b99603ea977381430",
+    "url": "https://example.com/files/MisidentifiedTowCompany/illegalTowOperations.jpg"
+  },
+  {
+    "name": "VehicleIncidentReport.png",
+    "folder": "MisidentifiedTowCompany",
+    "size": 3613035,
+    "type": "image/png",
+    "checksum": "a6395c825b651a053bb2170fa38fe8868cdeabda5c5ebbc60931c66660dec21b",
+    "url": "https://example.com/files/MisidentifiedTowCompany/VehicleIncidentReport.png"
+  },
+  {
+    "name": "CFR-2005-title49-vol5-sec390-5.pdf",
+    "folder": "MisidentifiedTowCompany",
+    "size": 164904,
+    "type": "application/pdf",
+    "checksum": "14f8dbb7a7799d3c5fcbd3cba43ef420ec959b8b9a492be356d191e14627efac",
+    "url": "https://example.com/files/MisidentifiedTowCompany/CFR-2005-title49-vol5-sec390-5.pdf"
+  },
+  {
+    "name": "delinquencyNoticeSecStateWa.pdf",
+    "folder": "MisidentifiedTowCompany",
+    "size": 103908,
+    "type": "application/pdf",
+    "checksum": "d3997fdd570d7f9852560dfd52e542b0d02d2ba0271b4a72ccc068d263a497c0",
+    "url": "https://example.com/files/MisidentifiedTowCompany/delinquencyNoticeSecStateWa.pdf"
+  },
+  {
+    "name": "C3910175-449A-4D24-974B-CF59449049CA.pdf",
+    "folder": "MisidentifiedTowCompany",
+    "size": 116595,
+    "type": "application/pdf",
+    "checksum": "989960e5718c967cfd20b3bc61fc6833b00e66b327f08811c298c84f4a2e023f",
+    "url": "https://example.com/files/MisidentifiedTowCompany/C3910175-449A-4D24-974B-CF59449049CA.pdf"
+  },
+  {
+    "name": "noticeofdisolutionSexretaryofStateWa.pdf",
+    "folder": "MisidentifiedTowCompany",
+    "size": 116595,
+    "type": "application/pdf",
+    "checksum": "989960e5718c967cfd20b3bc61fc6833b00e66b327f08811c298c84f4a2e023f",
+    "url": "https://example.com/files/MisidentifiedTowCompany/noticeofdisolutionSexretaryofStateWa.pdf"
+  },
+  {
+    "name": "WAC 204-91A-180.pdf",
+    "folder": "MisidentifiedTowCompany",
+    "size": 104044,
+    "type": "application/pdf",
+    "checksum": "f42118fb330be4d9ba039c4561344a548483b03200cf95ccf9db69e81f265932",
+    "url": "https://example.com/files/MisidentifiedTowCompany/WAC%20204-91A-180.pdf"
+  },
+  {
+    "name": "FD7D01CF-0A36-47F6-8FA3-E505BCAE556A.pdf",
+    "folder": "MisidentifiedTowCompany",
+    "size": 103908,
+    "type": "application/pdf",
+    "checksum": "d3997fdd570d7f9852560dfd52e542b0d02d2ba0271b4a72ccc068d263a497c0",
+    "url": "https://example.com/files/MisidentifiedTowCompany/FD7D01CF-0A36-47F6-8FA3-E505BCAE556A.pdf"
+  },
+  {
+    "name": "Screenshot_2025-09-04_at_12.49.04 AM.png",
+    "folder": ".",
+    "size": 1593929,
+    "type": "image/png",
+    "checksum": "8df50045fc0b610791e4d5a0113ccfdb81f251d4e7b3133ac8dd9bfda5fcd102",
+    "url": "https://example.com/files/Screenshot_2025-09-04_at_12.49.04 AM.png"
+  },
+  {
+    "name": "Screenshot_2025-09-04_at_2.27.50 AM.png",
+    "folder": ".",
+    "size": 64157,
+    "type": "image/png",
+    "checksum": "632c69c988bf4c6d6c807c4520835518623b22d7e4835cff4b2944d74941e785",
+    "url": "https://example.com/files/Screenshot_2025-09-04_at_2.27.50 AM.png"
+  },
+  {
+    "name": "b&tTowing.png",
+    "folder": ".",
+    "size": 1091242,
+    "type": "image/png",
+    "checksum": "93b89efdd4d2a3eb2017e44d765fbf63e2fb8f89b9bee0c611d60f98538b2cb1",
+    "url": "https://example.com/files/b&tTowing.png"
+  },
+  {
+    "name": "Screenshot 2025-09-08 at 7.51.39 AM.png",
+    "folder": "Jeremiah911Audio",
+    "size": 4169354,
+    "type": "image/png",
+    "checksum": "a9c04866f30410401dd858d1c233c8266fca342805ae101b04ec7c1adb75f4d7",
+    "url": "https://example.com/files/Jeremiah911Audio/Screenshot%202025-09-08%20at%207.51.39 AM.png"
+  },
+  {
+    "name": "Screenshot 2025-09-08 at 7.51.39 AM-1.png",
+    "folder": "Jeremiah911Audio",
+    "size": 4169354,
+    "type": "image/png",
+    "checksum": "a9c04866f30410401dd858d1c233c8266fca342805ae101b04ec7c1adb75f4d7",
+    "url": "https://example.com/files/Jeremiah911Audio/Screenshot%202025-09-08%20at%207.51.39 AM-1.png"
+  },
+  {
+    "name": "Screenshot 2025-09-08 at 7.51.39 AM-1-1.png",
+    "folder": "Jeremiah911Audio",
+    "size": 4169354,
+    "type": "image/png",
+    "checksum": "a9c04866f30410401dd858d1c233c8266fca342805ae101b04ec7c1adb75f4d7",
+    "url": "https://example.com/files/Jeremiah911Audio/Screenshot%202025-09-08%20at%207.51.39 AM-1-1.png"
+  },
+  {
+    "name": "24C06401.wav",
+    "folder": "Jeremiah911Audio",
+    "size": 39462446,
+    "type": "audio/x-wav",
+    "checksum": "5a4d450ff408711ed6b7369ee7d590a3f73efe0b8cce166dabf7af54dd4f6482",
+    "url": "https://example.com/files/Jeremiah911Audio/24C06401.wav"
+  },
+  {
+    "name": "allegedTowTruckOperatorsStatement.png",
+    "folder": "witness-statements",
+    "size": 5525498,
+    "type": "image/png",
+    "checksum": "9b9976508b811bb75c3b83dc33b12903180556a43dc8dc86b67dd65bf684b78d",
+    "url": "https://example.com/files/witness-statements/allegedTowTruckOperatorsStatement.png"
+  },
+  {
+    "name": "allegedTowTruckStatementB2of2.png",
+    "folder": "witness-statements",
+    "size": 3267667,
+    "type": "image/png",
+    "checksum": "f5f1682da6046bcc2257bf21a1e49b1acd7ff791a47110687372a0d8d70d8e23",
+    "url": "https://example.com/files/witness-statements/allegedTowTruckStatementB2of2.png"
+  },
+  {
+    "name": "JennaJohnsonStatement.png",
+    "folder": "witness-statements",
+    "size": 5674799,
+    "type": "image/png",
+    "checksum": "c81268e7f02de43ad5604be2f089fa0a252e9eab3738d849f6d68e72528d0c02",
+    "url": "https://example.com/files/witness-statements/JennaJohnsonStatement.png"
+  },
+  {
+    "name": "JeremiahStatementPartial.png",
+    "folder": "witness-statements",
+    "size": 4091491,
+    "type": "image/png",
+    "checksum": "989846f947fd2c60800e3aed9dea306ade49f26250b21622d66bd97f0a256dde",
+    "url": "https://example.com/files/witness-statements/JeremiahStatementPartial.png"
+  },
+  {
+    "name": "JeremiahJohnsonStatementTOOKUSTOHISHOUSE.png",
+    "folder": "witness-statements",
+    "size": 5384888,
+    "type": "image/png",
+    "checksum": "be0afbd093520f5c0eddfd61bf43b777482bf0c9d3d353c587c3b042bf685c95",
+    "url": "https://example.com/files/witness-statements/JeremiahJohnsonStatementTOOKUSTOHISHOUSE.png"
   },
   {
     "name": "unidentifiedRedactedWitnessStatement.png",
-    "path": "/unidentifiedRedactedWitnessStatement.png",
+    "folder": ".",
     "size": 5368006,
-    "type": "file",
-    "mtime": "2025-12-02T18:13:30.568013764+00:00",
-    "extension": "png",
-    "category": "Other Evidence"
+    "type": "image/png",
+    "checksum": "cbfe617f409ff886cfac6b0af1f6af05012b43eae165fdb83acd433ede5de4fe",
+    "url": "https://example.com/files/unidentifiedRedactedWitnessStatement.png"
   },
   {
-    "name": "witness-statements",
-    "path": "/witness-statements",
-    "size": 0,
-    "type": "directory",
-    "mtime": "2025-12-02T18:13:30.901018073+00:00",
-    "category": "Witness Statements",
-    "children": [
-      {
-        "name": "allegedTowTruckOperatorsStatement.png",
-        "path": "/witness-statements/allegedTowTruckOperatorsStatement.png",
-        "size": 5525498,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:30.901018073+00:00",
-        "extension": "png",
-        "category": "Witness Statements"
-      },
-      {
-        "name": "allegedTowTruckStatementB2of2.png",
-        "path": "/witness-statements/allegedTowTruckStatementB2of2.png",
-        "size": 3267667,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:17.697847155+00:00",
-        "extension": "png",
-        "category": "Witness Statements"
-      },
-      {
-        "name": "JennaJohnsonStatement.png",
-        "path": "/witness-statements/JennaJohnsonStatement.png",
-        "size": 5674799,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:31.408024633+00:00",
-        "extension": "png",
-        "category": "Witness Statements"
-      },
-      {
-        "name": "JeremiahJohnsonStatementTOOKUSTOHISHOUSE.png",
-        "path": "/witness-statements/JeremiahJohnsonStatementTOOKUSTOHISHOUSE.png",
-        "size": 5384888,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:31.176021631+00:00",
-        "extension": "png",
-        "category": "Witness Statements"
-      },
-      {
-        "name": "JeremiahStatementPartial.png",
-        "path": "/witness-statements/JeremiahStatementPartial.png",
-        "size": 4091491,
-        "type": "file",
-        "mtime": "2025-12-02T18:13:26.127956309+00:00",
-        "extension": "png",
-        "category": "Witness Statements"
-      }
-    ]
+    "name": "Screenshot_2025-09-04_at_1.52.53 AM.png",
+    "folder": ".",
+    "size": 487029,
+    "type": "image/png",
+    "checksum": "97d9c02002495e642f26882c535ef7baa293dce2c7654c92afc4ce8ef7269c4a",
+    "url": "https://example.com/files/Screenshot_2025-09-04_at_1.52.53 AM.png"
+  },
+  {
+    "name": "bookingReportDeputyBrunner.png",
+    "folder": "police-reports",
+    "size": 5657445,
+    "type": "image/png",
+    "checksum": "6ec02c3f607d2b4cf4784dceb198c4dc7163de1393bac2c001636f865bd1f56e",
+    "url": "https://example.com/files/police-reports/bookingReportDeputyBrunner.png"
+  },
+  {
+    "name": "Page5-cpd-pr.pdf",
+    "folder": "police-reports",
+    "size": 347158,
+    "type": "application/pdf",
+    "checksum": "0e5013d49681349bec583abcfebcc9f400e9cb26086093c6625137897be386f1",
+    "url": "https://example.com/files/police-reports/Page5-cpd-pr.pdf"
+  },
+  {
+    "name": "Chelan_2410025304_PoliceReportWork.pdf",
+    "folder": "police-reports",
+    "size": 9868068,
+    "type": "application/pdf",
+    "checksum": "6382678c35e594326ab4724a64fd13448847b43242bf5df093b96685c6944e83",
+    "url": "https://example.com/files/police-reports/Chelan_2410025304_PoliceReportWork.pdf"
+  },
+  {
+    "name": "incidentReport24C06401.png",
+    "folder": "police-reports",
+    "size": 4006070,
+    "type": "image/png",
+    "checksum": "f1a127e9a9629c4d18cc3f7ecbaa47143199f22e7924c090416c928894fc49d7",
+    "url": "https://example.com/files/police-reports/incidentReport24C06401.png"
+  },
+  {
+    "name": "chargingDocuments.png",
+    "folder": "police-reports",
+    "size": 4634387,
+    "type": "image/png",
+    "checksum": "dc26fff28c84aa21cbf17f04a100763c656e2e24b03791b7034b22342d6946f5",
+    "url": "https://example.com/files/police-reports/chargingDocuments.png"
+  },
+  {
+    "name": "ChelanPoliceReport.pdf",
+    "folder": "police-reports",
+    "size": 9862112,
+    "type": "application/pdf",
+    "checksum": "737875a58fc47d37ae954022726322b7ee5d37d16dd7c56d1a5a4050f57f2763",
+    "url": "https://example.com/files/police-reports/ChelanPoliceReport.pdf"
+  },
+  {
+    "name": "ORIGINAL_Scan044.pdf",
+    "folder": "police-reports",
+    "size": 9862112,
+    "type": "application/pdf",
+    "checksum": "737875a58fc47d37ae954022726322b7ee5d37d16dd7c56d1a5a4050f57f2763",
+    "url": "https://example.com/files/police-reports/ORIGINAL_Scan044.pdf"
+  },
+  {
+    "name": "trespassOrder.png",
+    "folder": "police-reports",
+    "size": 4167098,
+    "type": "image/png",
+    "checksum": "0999b4c9b7cc392eebb98e86ba4e3a5d50b4d10b2d70fb860afe227458bc41a9",
+    "url": "https://example.com/files/police-reports/trespassOrder.png"
+  },
+  {
+    "name": "incidentSignature.png",
+    "folder": "police-reports",
+    "size": 3301094,
+    "type": "image/png",
+    "checksum": "d0c289c8f4dda88159f0369f0a8388be77b9474c6e24c6c64cf2a64254b1a69c",
+    "url": "https://example.com/files/police-reports/incidentSignature.png"
+  },
+  {
+    "name": "incidentReportB24C06401.png",
+    "folder": "police-reports",
+    "size": 3472342,
+    "type": "image/png",
+    "checksum": "22614a9f4031f91324d4e031f0e7d531579ba4b89fdd08d8d9cc410cf764b532",
+    "url": "https://example.com/files/police-reports/incidentReportB24C06401.png"
+  },
+  {
+    "name": "74181379896__534F6905-2FDE-499A-A864-8DA48EE57F8A.fullsizerender.JPG",
+    "folder": "ryansImageSet",
+    "size": 5220368,
+    "type": "image/jpeg",
+    "checksum": "e9c24b53b84d111d04d289f4b7952855b785a14af9a4ff77764d7ab0a7b8dd48",
+    "url": "https://example.com/files/ryansImageSet/74181379896__534F6905-2FDE-499A-A864-8DA48EE57F8A.fullsizerender.JPG"
+  },
+  {
+    "name": "IMG_6372.JPG",
+    "folder": "ryansImageSet",
+    "size": 989683,
+    "type": "image/jpeg",
+    "checksum": "fd5b01b00cc3122cfbd15446886976f905dd5a6ef16bf0f60d84590ee60f0b40",
+    "url": "https://example.com/files/ryansImageSet/IMG_6372.JPG"
+  },
+  {
+    "name": "IMG_6403.MOV",
+    "folder": "ryansImageSet",
+    "size": 5386234,
+    "type": "video/quicktime",
+    "checksum": "0e6e30ad1dbaf1ead5d819866ac7f35f23cdfbe261c733b2091abbe062369452",
+    "url": "https://example.com/files/ryansImageSet/IMG_6403.MOV"
+  },
+  {
+    "name": "IMG_6423.MOV",
+    "folder": "ryansImageSet",
+    "size": 3994395,
+    "type": "video/quicktime",
+    "checksum": "4593e6380bea0e1610ea6f54b011add7aa44c1dc864c9c5e7d29ac5a4c4379b7",
+    "url": "https://example.com/files/ryansImageSet/IMG_6423.MOV"
+  },
+  {
+    "name": "IMG_6456.JPG",
+    "folder": "ryansImageSet",
+    "size": 6414518,
+    "type": "image/jpeg",
+    "checksum": "9b70dfad7782c9dccf41a025251747eebcf847be2b834c9edb9661942746ad69",
+    "url": "https://example.com/files/ryansImageSet/IMG_6456.JPG"
+  },
+  {
+    "name": "IMG_6396.MOV",
+    "folder": "ryansImageSet",
+    "size": 4816024,
+    "type": "video/quicktime",
+    "checksum": "5acd508dc057b0b0eaf0884ee0af23647fa91b41d9ccc6b1c671fa015316a27e",
+    "url": "https://example.com/files/ryansImageSet/IMG_6396.MOV"
+  },
+  {
+    "name": "IMG_6370.MOV",
+    "folder": "ryansImageSet",
+    "size": 667464,
+    "type": "video/quicktime",
+    "checksum": "b8a00c53db49dd471970797b65a22272bfdc687655de21403f84330f68fe4528",
+    "url": "https://example.com/files/ryansImageSet/IMG_6370.MOV"
+  },
+  {
+    "name": "IMG_6428.JPG",
+    "folder": "ryansImageSet",
+    "size": 4126096,
+    "type": "image/jpeg",
+    "checksum": "a2f99616691c7451f821051d64a2bfd3e12575e5127c9908dde231eccc7535a6",
+    "url": "https://example.com/files/ryansImageSet/IMG_6428.JPG"
+  },
+  {
+    "name": "IMG_6441.JPG",
+    "folder": "ryansImageSet",
+    "size": 6015923,
+    "type": "image/jpeg",
+    "checksum": "665fbf3f8b7112e188fd82ff66411af4ff3d6ecf258bab5d71b3634323fb465a",
+    "url": "https://example.com/files/ryansImageSet/IMG_6441.JPG"
+  },
+  {
+    "name": "IMG_6327.MOV",
+    "folder": "ryansImageSet",
+    "size": 11568322,
+    "type": "video/quicktime",
+    "checksum": "870ade3ca7b8e8e3cd7853d0ad87c90cc9a135d3c8ec1f6461f6cd093b6fe060",
+    "url": "https://example.com/files/ryansImageSet/IMG_6327.MOV"
+  },
+  {
+    "name": "IMG_6425.MOV",
+    "folder": "ryansImageSet",
+    "size": 5582382,
+    "type": "video/quicktime",
+    "checksum": "0cffbc30b3a13f624229eecd1cfbfc5f9f5294b36276b8c1f6c07c4b7b010f56",
+    "url": "https://example.com/files/ryansImageSet/IMG_6425.MOV"
+  },
+  {
+    "name": "IMG_6373.JPG",
+    "folder": "ryansImageSet",
+    "size": 1138733,
+    "type": "image/jpeg",
+    "checksum": "29de6c0d8109b3d5679e065e63136513ef00b526c0dfb3d2a5aa90d17d1e2b3a",
+    "url": "https://example.com/files/ryansImageSet/IMG_6373.JPG"
+  },
+  {
+    "name": "IMG_6358.JPG",
+    "folder": "ryansImageSet",
+    "size": 1056556,
+    "type": "image/jpeg",
+    "checksum": "fc5aab1f873352857b9495abca6b51757edb9aad9de0fd93c8100077910d7bbf",
+    "url": "https://example.com/files/ryansImageSet/IMG_6358.JPG"
+  },
+  {
+    "name": "IMG_6390.MOV",
+    "folder": "ryansImageSet",
+    "size": 4601348,
+    "type": "video/quicktime",
+    "checksum": "db56df14e231a63b573fc7a90d62942532eb20fe0095999d4a113458e051a058",
+    "url": "https://example.com/files/ryansImageSet/IMG_6390.MOV"
+  },
+  {
+    "name": "IMG_6459.JPG",
+    "folder": "ryansImageSet",
+    "size": 2313255,
+    "type": "image/jpeg",
+    "checksum": "1d1ee3849596c93074e64b2ebb9ae1a27fbea79209338c20baf987266dfc66b1",
+    "url": "https://example.com/files/ryansImageSet/IMG_6459.JPG"
+  },
+  {
+    "name": "IMG_6413.MOV",
+    "folder": "ryansImageSet",
+    "size": 2888830,
+    "type": "video/quicktime",
+    "checksum": "b03ea509c8ab4ea119da29206254fe66aed7f77fe9945ef08c594bccdc942066",
+    "url": "https://example.com/files/ryansImageSet/IMG_6413.MOV"
+  },
+  {
+    "name": "IMG_6393.JPG",
+    "folder": "ryansImageSet",
+    "size": 1756605,
+    "type": "image/jpeg",
+    "checksum": "44a99ed5d974d51eab0591bfaaa8929d89a47c046d8662670456850dde5a8d7f",
+    "url": "https://example.com/files/ryansImageSet/IMG_6393.JPG"
+  },
+  {
+    "name": "IMG_6356.JPG",
+    "folder": "ryansImageSet",
+    "size": 913808,
+    "type": "image/jpeg",
+    "checksum": "aefb20f98acdd36d1fa6686ab4d0669432894af9557e3a7e4bab5b2bf2642fae",
+    "url": "https://example.com/files/ryansImageSet/IMG_6356.JPG"
+  },
+  {
+    "name": "IMG_6400.JPG",
+    "folder": "ryansImageSet",
+    "size": 2588171,
+    "type": "image/jpeg",
+    "checksum": "fd2f1ddab0acc6941e0d522da8a28a9d4ba22512d1169fcd8358507d04e56be1",
+    "url": "https://example.com/files/ryansImageSet/IMG_6400.JPG"
+  },
+  {
+    "name": "IMG_6446.JPG",
+    "folder": "ryansImageSet",
+    "size": 624864,
+    "type": "image/jpeg",
+    "checksum": "cb478b621b916190e06a06ad687c79fe627a455454520a7e01ef6f670e6d4496",
+    "url": "https://example.com/files/ryansImageSet/IMG_6446.JPG"
+  },
+  {
+    "name": "74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.JPG",
+    "folder": "ryansImageSet",
+    "size": 4873307,
+    "type": "image/jpeg",
+    "checksum": "9679c7408049d7fb22d081d410079479b7480bfcddb5da5dee60db77064497f2",
+    "url": "https://example.com/files/ryansImageSet/74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.JPG"
+  },
+  {
+    "name": "IMG_6432.MOV",
+    "folder": "ryansImageSet",
+    "size": 2582365,
+    "type": "video/quicktime",
+    "checksum": "a15f0b9c7328847f530a6f76bfb7db0cf63187ed0615396da2e40c4c95850612",
+    "url": "https://example.com/files/ryansImageSet/IMG_6432.MOV"
+  },
+  {
+    "name": "IMG_6414.MOV",
+    "folder": "ryansImageSet",
+    "size": 1569340,
+    "type": "video/quicktime",
+    "checksum": "abe6d3540357ede84655448eae0374a74ed4dd50abc41c1ae356bb351e44612b",
+    "url": "https://example.com/files/ryansImageSet/IMG_6414.MOV"
+  },
+  {
+    "name": "527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg",
+    "folder": "ryansImageSet",
+    "size": 61998,
+    "type": "image/jpeg",
+    "checksum": "cc57acc39ba8a60a6827632e41883b9dd78a54e456560b7c5b89b1b479b96c27",
+    "url": "https://example.com/files/ryansImageSet/527A6DA4-F8A3-4110-859A-D3D164A07FFC.jpeg"
+  },
+  {
+    "name": "IMG_6423.JPG",
+    "folder": "ryansImageSet",
+    "size": 5566298,
+    "type": "image/jpeg",
+    "checksum": "0203e461a14608d34f378aa3af381295942b65d439d89903d3a858df5401e030",
+    "url": "https://example.com/files/ryansImageSet/IMG_6423.JPG"
+  },
+  {
+    "name": "IMG_6382.JPG",
+    "folder": "ryansImageSet",
+    "size": 3203559,
+    "type": "image/jpeg",
+    "checksum": "5b6df4246edc695635f434fc001fe716ef457d8637a7f14c141e2ef0b87da6d5",
+    "url": "https://example.com/files/ryansImageSet/IMG_6382.JPG"
+  },
+  {
+    "name": "IMG_6393.MOV",
+    "folder": "ryansImageSet",
+    "size": 5677963,
+    "type": "video/quicktime",
+    "checksum": "77f7df6259c0589920e39d856630c0cf64cce8885aab16449e89d9b76865e209",
+    "url": "https://example.com/files/ryansImageSet/IMG_6393.MOV"
+  },
+  {
+    "name": "IMG_6375.JPG",
+    "folder": "ryansImageSet",
+    "size": 1929243,
+    "type": "image/jpeg",
+    "checksum": "c43c2d6b28e656039a3e552be4f6f3961afb28e5cfd5c71b0f585cd6e4567fb4",
+    "url": "https://example.com/files/ryansImageSet/IMG_6375.JPG"
+  },
+  {
+    "name": "IMG_6448.JPG",
+    "folder": "ryansImageSet",
+    "size": 2328613,
+    "type": "image/jpeg",
+    "checksum": "135d15da16f4f2636b6c51efdadf6725937cdd19b4611dada9a3066ad6da0e5d",
+    "url": "https://example.com/files/ryansImageSet/IMG_6448.JPG"
+  },
+  {
+    "name": "IMG_6392.MOV",
+    "folder": "ryansImageSet",
+    "size": 5518145,
+    "type": "video/quicktime",
+    "checksum": "17f159e76e8542d7d818c4884f5803f35feee3a3a0fad5b81d9a91ccaad394e8",
+    "url": "https://example.com/files/ryansImageSet/IMG_6392.MOV"
+  },
+  {
+    "name": "IMG_6339.JPG",
+    "folder": "ryansImageSet",
+    "size": 1085794,
+    "type": "image/jpeg",
+    "checksum": "c3cc47e1fb19d1cb2a9c7e792dd8c76a02453efdfe563847aaf32ca2337d6fab",
+    "url": "https://example.com/files/ryansImageSet/IMG_6339.JPG"
+  },
+  {
+    "name": "IMG_6443.MOV",
+    "folder": "ryansImageSet",
+    "size": 9329514,
+    "type": "video/quicktime",
+    "checksum": "8d91d7c8bd1a516a9f80b41f6e315f58f369a0ef13a1f413858e522df83a4cef",
+    "url": "https://example.com/files/ryansImageSet/IMG_6443.MOV"
+  },
+  {
+    "name": "IMG_6370.JPG",
+    "folder": "ryansImageSet",
+    "size": 615987,
+    "type": "image/jpeg",
+    "checksum": "22fbbe10856d73069f8af2fa0e07dd14d693d5974d1e51b3152a433fd393c617",
+    "url": "https://example.com/files/ryansImageSet/IMG_6370.JPG"
+  },
+  {
+    "name": "IMG_6347.JPG",
+    "folder": "ryansImageSet",
+    "size": 777755,
+    "type": "image/jpeg",
+    "checksum": "27e9d9ecdccddd8f21a52343a3cbb2b60333f8ffc64de3aea5d39c8369770f85",
+    "url": "https://example.com/files/ryansImageSet/IMG_6347.JPG"
+  },
+  {
+    "name": "IMG_6389.JPG",
+    "folder": "ryansImageSet",
+    "size": 1773211,
+    "type": "image/jpeg",
+    "checksum": "73da06b3df7a2306cd5ef2b2593b60291478f333ca240ccbbc729133839465d5",
+    "url": "https://example.com/files/ryansImageSet/IMG_6389.JPG"
+  },
+  {
+    "name": "IMG_6392.JPG",
+    "folder": "ryansImageSet",
+    "size": 3034862,
+    "type": "image/jpeg",
+    "checksum": "33acef7ebc1a13f21b9ad461188f638d13985041d51e254bc7c85f13574375d3",
+    "url": "https://example.com/files/ryansImageSet/IMG_6392.JPG"
+  },
+  {
+    "name": "IMG_6458.JPG",
+    "folder": "ryansImageSet",
+    "size": 1621388,
+    "type": "image/jpeg",
+    "checksum": "162abd882856b1d7e5748de49be5a29917c1dd3ad4da1ec2c7478e01154805ca",
+    "url": "https://example.com/files/ryansImageSet/IMG_6458.JPG"
+  },
+  {
+    "name": "IMG_6433.JPG",
+    "folder": "ryansImageSet",
+    "size": 2578557,
+    "type": "image/jpeg",
+    "checksum": "431f0fe790db38972213fa9c81f16fbdf6f48ab28f71af8f2f679a7efcbb2783",
+    "url": "https://example.com/files/ryansImageSet/IMG_6433.JPG"
+  },
+  {
+    "name": "IMG_6436.JPG",
+    "folder": "ryansImageSet",
+    "size": 5132938,
+    "type": "image/jpeg",
+    "checksum": "dcb9d714fe9e740fcfad5c726ad9c14ac310298a699ebc721299d0ce92cc77f6",
+    "url": "https://example.com/files/ryansImageSet/IMG_6436.JPG"
+  },
+  {
+    "name": "IMG_6436.MOV",
+    "folder": "ryansImageSet",
+    "size": 4144481,
+    "type": "video/quicktime",
+    "checksum": "d9e5cbb9aead8c029b1386d093fb7d6a54c51d330920f364110e0753a78a7f6c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6436.MOV"
+  },
+  {
+    "name": "99511A03-519D-473F-AC32-4FCA26032F52.jpeg",
+    "folder": "ryansImageSet",
+    "size": 317603,
+    "type": "image/jpeg",
+    "checksum": "2b8976e5d7aa28efe1cdd5bd6754cc4e091128ea7ccfa0f0ed3cee69be8d966c",
+    "url": "https://example.com/files/ryansImageSet/99511A03-519D-473F-AC32-4FCA26032F52.jpeg"
+  },
+  {
+    "name": "74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.MOV",
+    "folder": "ryansImageSet",
+    "size": 3236065,
+    "type": "video/quicktime",
+    "checksum": "990e79bf5ddae62b153741cec079da5d4b89a861d002f5fb91ac5e39d4fb9b86",
+    "url": "https://example.com/files/ryansImageSet/74182082990__93156EAF-7B8A-49EC-8AD5-D1161913AD67.fullsizerender.MOV"
+  },
+  {
+    "name": "IMG_6355.JPG",
+    "folder": "ryansImageSet",
+    "size": 859139,
+    "type": "image/jpeg",
+    "checksum": "3d0a33551b67ab150a71e02044906a177692bed7d32d863faec52873a078de65",
+    "url": "https://example.com/files/ryansImageSet/IMG_6355.JPG"
+  },
+  {
+    "name": "IMG_6355.MOV",
+    "folder": "ryansImageSet",
+    "size": 2588750,
+    "type": "video/quicktime",
+    "checksum": "f4fc479623c9748a6f0513b4636828eaf76d501c533e8e3416571d3db14f975b",
+    "url": "https://example.com/files/ryansImageSet/IMG_6355.MOV"
+  },
+  {
+    "name": "IMG_6425.JPG",
+    "folder": "ryansImageSet",
+    "size": 3398137,
+    "type": "image/jpeg",
+    "checksum": "452fdda34bc2e09887018528ac909f0bf8553cf7f3531f0bc03897a8302e964c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6425.JPG"
+  },
+  {
+    "name": "IMG_6399.MOV",
+    "folder": "ryansImageSet",
+    "size": 3861478,
+    "type": "video/quicktime",
+    "checksum": "4ceea3b0455bae380d41cf9d66b6cacd32bd1392091c819555b0ab9c476edc04",
+    "url": "https://example.com/files/ryansImageSet/IMG_6399.MOV"
+  },
+  {
+    "name": "IMG_6335.JPG",
+    "folder": "ryansImageSet",
+    "size": 401337,
+    "type": "image/jpeg",
+    "checksum": "31521bceb13b7d1ffeae71950925006bb3f594457676dcd4d990612a4b982eb1",
+    "url": "https://example.com/files/ryansImageSet/IMG_6335.JPG"
+  },
+  {
+    "name": "IMG_6381.JPG",
+    "folder": "ryansImageSet",
+    "size": 4154143,
+    "type": "image/jpeg",
+    "checksum": "101240db81d4ddeac9b5570007eb05752ef91b0d631d7b54f6856b542bbcc0bc",
+    "url": "https://example.com/files/ryansImageSet/IMG_6381.JPG"
+  },
+  {
+    "name": "IMG_6397.JPG",
+    "folder": "ryansImageSet",
+    "size": 7257437,
+    "type": "image/jpeg",
+    "checksum": "c47a8b7b385919e02dadd4656550a7f6d8d22f0a9f0361f7aff6318340f12f98",
+    "url": "https://example.com/files/ryansImageSet/IMG_6397.JPG"
+  },
+  {
+    "name": "IMG_6441.MOV",
+    "folder": "ryansImageSet",
+    "size": 3502504,
+    "type": "video/quicktime",
+    "checksum": "6f30536ebe5fef563bed7ebe28a8e7492af51ea6bc0895a6fa6600e63060d7a2",
+    "url": "https://example.com/files/ryansImageSet/IMG_6441.MOV"
+  },
+  {
+    "name": "IMG_6384.JPG",
+    "folder": "ryansImageSet",
+    "size": 3372004,
+    "type": "image/jpeg",
+    "checksum": "476b9daf664b7325beccddc661077eb8ee5ccf7e49356ac93573682df8895ea4",
+    "url": "https://example.com/files/ryansImageSet/IMG_6384.JPG"
+  },
+  {
+    "name": "IMG_6437.MOV",
+    "folder": "ryansImageSet",
+    "size": 4659226,
+    "type": "video/quicktime",
+    "checksum": "d20f1964fe9df2a0bb47a2e6721c9061ca994073c90e05367ab21ac4bcb59a37",
+    "url": "https://example.com/files/ryansImageSet/IMG_6437.MOV"
+  },
+  {
+    "name": "IMG_6399.JPG",
+    "folder": "ryansImageSet",
+    "size": 2538737,
+    "type": "image/jpeg",
+    "checksum": "0a0bb968f1b52573ddf4bad12e21df47ebffdd36e2d353810293a01e2c0b800b",
+    "url": "https://example.com/files/ryansImageSet/IMG_6399.JPG"
+  },
+  {
+    "name": "IMG_6394.MOV",
+    "folder": "ryansImageSet",
+    "size": 5242443,
+    "type": "video/quicktime",
+    "checksum": "6fe18a43074e9151423e16a43d1ffba538e10c0781d685a38eeef7f7ee529652",
+    "url": "https://example.com/files/ryansImageSet/IMG_6394.MOV"
+  },
+  {
+    "name": "IMG_6365.JPG",
+    "folder": "ryansImageSet",
+    "size": 802293,
+    "type": "image/jpeg",
+    "checksum": "872ee72ba3f99e5a063eae17d60e7a731bb5a2a217df7fb76b350313003db3be",
+    "url": "https://example.com/files/ryansImageSet/IMG_6365.JPG"
+  },
+  {
+    "name": "IMG_6395.JPG",
+    "folder": "ryansImageSet",
+    "size": 2227345,
+    "type": "image/jpeg",
+    "checksum": "d2e280d3b5b4f565d63e56a8b97bc095fb71df3ed6b3bb7762513702642d0e6a",
+    "url": "https://example.com/files/ryansImageSet/IMG_6395.JPG"
+  },
+  {
+    "name": "IMG_6452.JPG",
+    "folder": "ryansImageSet",
+    "size": 6783144,
+    "type": "image/jpeg",
+    "checksum": "5772cffba06f18264f343dc7141df007af49594862a5f5feb332b6886bc21f01",
+    "url": "https://example.com/files/ryansImageSet/IMG_6452.JPG"
+  },
+  {
+    "name": "IMG_6434.MOV",
+    "folder": "ryansImageSet",
+    "size": 2272408,
+    "type": "video/quicktime",
+    "checksum": "d0ac60983071c96300fc9336ed5d80b52be4e919b06b962a9e8bb41e026e2086",
+    "url": "https://example.com/files/ryansImageSet/IMG_6434.MOV"
+  },
+  {
+    "name": "IMG_6363.JPG",
+    "folder": "ryansImageSet",
+    "size": 553000,
+    "type": "image/jpeg",
+    "checksum": "2fe5e165d2a16ddbd7f275c4270fc1a1846dbfb8418d94297dec9eac0a80230a",
+    "url": "https://example.com/files/ryansImageSet/IMG_6363.JPG"
+  },
+  {
+    "name": "IMG_6383.JPG",
+    "folder": "ryansImageSet",
+    "size": 3389118,
+    "type": "image/jpeg",
+    "checksum": "6802d5b26a58ed5196e7b25f4724fe0246caf81a32fe1ceb3c7d4bc2b43fbcf6",
+    "url": "https://example.com/files/ryansImageSet/IMG_6383.JPG"
+  },
+  {
+    "name": "IMG_6453.JPG",
+    "folder": "ryansImageSet",
+    "size": 6662499,
+    "type": "image/jpeg",
+    "checksum": "e517cf719100e956b23b091dbc3628f80603af457b36143c5d2174f5927fde54",
+    "url": "https://example.com/files/ryansImageSet/IMG_6453.JPG"
+  },
+  {
+    "name": "IMG_6427.JPG",
+    "folder": "ryansImageSet",
+    "size": 4095292,
+    "type": "image/jpeg",
+    "checksum": "cdba80b14d709ddcc046ece32756d80b90f8c1b7576896ad51e976cb8d228b4e",
+    "url": "https://example.com/files/ryansImageSet/IMG_6427.JPG"
+  },
+  {
+    "name": "IMG_6404.MOV",
+    "folder": "ryansImageSet",
+    "size": 5117470,
+    "type": "video/quicktime",
+    "checksum": "26f48edde3e31da2e16c8c35e4d91e28c8b9b5a0337220673eda935e1bbf90da",
+    "url": "https://example.com/files/ryansImageSet/IMG_6404.MOV"
+  },
+  {
+    "name": "IMG_6361.JPG",
+    "folder": "ryansImageSet",
+    "size": 4025605,
+    "type": "image/jpeg",
+    "checksum": "98d9a7cc58f329b92999ead83d16d4b6132a96d3577bfc8c28630d8e1129adee",
+    "url": "https://example.com/files/ryansImageSet/IMG_6361.JPG"
+  },
+  {
+    "name": "IMG_6344.JPG",
+    "folder": "ryansImageSet",
+    "size": 1642596,
+    "type": "image/jpeg",
+    "checksum": "f45d98183be9c9c6a52640c09e7e0a6e20320cffef56c16c232f25e1ba38d1ab",
+    "url": "https://example.com/files/ryansImageSet/IMG_6344.JPG"
+  },
+  {
+    "name": "IMG_6354.MOV",
+    "folder": "ryansImageSet",
+    "size": 1511450,
+    "type": "video/quicktime",
+    "checksum": "7a8f9bdccf532752f1d561841720f8527a2ae7a43de9ae0508f5a67d09472c6c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6354.MOV"
+  },
+  {
+    "name": "IMG_6429.MOV",
+    "folder": "ryansImageSet",
+    "size": 2297539,
+    "type": "video/quicktime",
+    "checksum": "5a481199d380b5e926effb79cba659dd757dcabc6578d1a36213eb53caa13295",
+    "url": "https://example.com/files/ryansImageSet/IMG_6429.MOV"
+  },
+  {
+    "name": "IMG_6432.JPG",
+    "folder": "ryansImageSet",
+    "size": 5342671,
+    "type": "image/jpeg",
+    "checksum": "f5b8e6bb85f58c09d9d6d5397e2214ed8195ee4b17c02d2622ac8b874bb00c57",
+    "url": "https://example.com/files/ryansImageSet/IMG_6432.JPG"
+  },
+  {
+    "name": "IMG_6459.MOV",
+    "folder": "ryansImageSet",
+    "size": 4203857,
+    "type": "video/quicktime",
+    "checksum": "694f67fe5ded263c9d8a90199190f1878c76702ad34148ca5bf3bc48296bbc15",
+    "url": "https://example.com/files/ryansImageSet/IMG_6459.MOV"
+  },
+  {
+    "name": "74181379896__534F6905-2FDE-499A-A864-8DA48EE57F8A.fullsizerender.MOV",
+    "folder": "ryansImageSet",
+    "size": 2772525,
+    "type": "video/quicktime",
+    "checksum": "26aa5432db40781c1718b140c44d499d7113b3f3e326476a415cdff34d085bb9",
+    "url": "https://example.com/files/ryansImageSet/74181379896__534F6905-2FDE-499A-A864-8DA48EE57F8A.fullsizerender.MOV"
+  },
+  {
+    "name": "IMG_6433.MOV",
+    "folder": "ryansImageSet",
+    "size": 2312240,
+    "type": "video/quicktime",
+    "checksum": "057d04383c0bbdbebee9991a2ea18ba4329cd386ffd48b862242c27771d9a6bc",
+    "url": "https://example.com/files/ryansImageSet/IMG_6433.MOV"
+  },
+  {
+    "name": "IMG_6434.JPG",
+    "folder": "ryansImageSet",
+    "size": 5692105,
+    "type": "image/jpeg",
+    "checksum": "60f3f539d95c0071d423e713a3d6beb898a42af7f725cd2181b3abcfd245ba31",
+    "url": "https://example.com/files/ryansImageSet/IMG_6434.JPG"
+  },
+  {
+    "name": "IMG_6451.JPG",
+    "folder": "ryansImageSet",
+    "size": 6549073,
+    "type": "image/jpeg",
+    "checksum": "4f6598c44e79313b6f6949624d46067dc4079466f1566715bde0e31c1c8a6efe",
+    "url": "https://example.com/files/ryansImageSet/IMG_6451.JPG"
+  },
+  {
+    "name": "IMG_6398.MOV",
+    "folder": "ryansImageSet",
+    "size": 3991007,
+    "type": "video/quicktime",
+    "checksum": "d8239e59b0f741a6ca1634720eda6212c94309a42819f75d1b055648e381800c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6398.MOV"
+  },
+  {
+    "name": "IMG_6403.JPG",
+    "folder": "ryansImageSet",
+    "size": 3877122,
+    "type": "image/jpeg",
+    "checksum": "afded09960f5c680756e39955535af484e5e1404d2b2c737067176806bf3dea1",
+    "url": "https://example.com/files/ryansImageSet/IMG_6403.JPG"
+  },
+  {
+    "name": "IMG_6384.MOV",
+    "folder": "ryansImageSet",
+    "size": 4876845,
+    "type": "video/quicktime",
+    "checksum": "a54e9286b50cc2fafdca33c709c220ba7b2d0099b5693bd52af03fc3e4fd68fd",
+    "url": "https://example.com/files/ryansImageSet/IMG_6384.MOV"
+  },
+  {
+    "name": "IMG_6421.MOV",
+    "folder": "ryansImageSet",
+    "size": 3878411,
+    "type": "video/quicktime",
+    "checksum": "a1684b3f4010fa0635653328aa4cf3b35306f764bef5867e4b8eddabe0d504f8",
+    "url": "https://example.com/files/ryansImageSet/IMG_6421.MOV"
+  },
+  {
+    "name": "IMG_6350.JPG",
+    "folder": "ryansImageSet",
+    "size": 1824735,
+    "type": "image/jpeg",
+    "checksum": "0c65c3080b907fa25a2de35234ddb9147a0a1fcf2181555c00b23b164032c493",
+    "url": "https://example.com/files/ryansImageSet/IMG_6350.JPG"
+  },
+  {
+    "name": "IMG_6401.JPG",
+    "folder": "ryansImageSet",
+    "size": 4967332,
+    "type": "image/jpeg",
+    "checksum": "a8e99b335eaec3eef9873654359136b875989c4697b0908fb884590c12ef795e",
+    "url": "https://example.com/files/ryansImageSet/IMG_6401.JPG"
+  },
+  {
+    "name": "IMG_6444.MOV",
+    "folder": "ryansImageSet",
+    "size": 5867723,
+    "type": "video/quicktime",
+    "checksum": "55607f3cb01e4c46345f75ae85d2a8789f7a46131f620f165fcb18042f5e3522",
+    "url": "https://example.com/files/ryansImageSet/IMG_6444.MOV"
+  },
+  {
+    "name": "IMG_6445.JPG",
+    "folder": "ryansImageSet",
+    "size": 3889755,
+    "type": "image/jpeg",
+    "checksum": "21c5d0f260839fb6f608f0cf2761ca395bb5ea55fd714570ec54ca0eee4e4341",
+    "url": "https://example.com/files/ryansImageSet/IMG_6445.JPG"
+  },
+  {
+    "name": "IMG_6406.JPG",
+    "folder": "ryansImageSet",
+    "size": 3208056,
+    "type": "image/jpeg",
+    "checksum": "a5aa809c53d9945a5903091a192aa7829b59de605ef919bbdefb1c79f0ddd2d9",
+    "url": "https://example.com/files/ryansImageSet/IMG_6406.JPG"
+  },
+  {
+    "name": "IMG_6431.JPG",
+    "folder": "ryansImageSet",
+    "size": 3622466,
+    "type": "image/jpeg",
+    "checksum": "96edfda77868eabb36a3b126181ced6ec686ecb57ef5f1333501a94c5458bbe7",
+    "url": "https://example.com/files/ryansImageSet/IMG_6431.JPG"
+  },
+  {
+    "name": "IMG_6414.JPG",
+    "folder": "ryansImageSet",
+    "size": 3371211,
+    "type": "image/jpeg",
+    "checksum": "443524fbc67e4d1117010c8b59d281dc5f2ea275da3499daf1f9622efddbec2d",
+    "url": "https://example.com/files/ryansImageSet/IMG_6414.JPG"
+  },
+  {
+    "name": "IMG_6386.JPG",
+    "folder": "ryansImageSet",
+    "size": 2405940,
+    "type": "image/jpeg",
+    "checksum": "74960ad23a72f15e4a47702b5d8cf1708328739515158d9bbbd1e55bdc68380b",
+    "url": "https://example.com/files/ryansImageSet/IMG_6386.JPG"
+  },
+  {
+    "name": "IMG_6353.JPG",
+    "folder": "ryansImageSet",
+    "size": 676128,
+    "type": "image/jpeg",
+    "checksum": "58ce663d8d1a8d71a2462f39cb1d92e6ee968d116f295482b477d8c9a5b9ec4d",
+    "url": "https://example.com/files/ryansImageSet/IMG_6353.JPG"
+  },
+  {
+    "name": "IMG_6395.MOV",
+    "folder": "ryansImageSet",
+    "size": 3703996,
+    "type": "video/quicktime",
+    "checksum": "a7e1fdcef8cd8318721b3ccffd64a4f14de46b565d7644d7fba1e62ff27b95cf",
+    "url": "https://example.com/files/ryansImageSet/IMG_6395.MOV"
+  },
+  {
+    "name": "IMG_6361.MOV",
+    "folder": "ryansImageSet",
+    "size": 761025,
+    "type": "video/quicktime",
+    "checksum": "21a8c828c084ce8658fac1b71723debc1830a4b77265b8bc49a2572fe8dd4057",
+    "url": "https://example.com/files/ryansImageSet/IMG_6361.MOV"
+  },
+  {
+    "name": "IMG_6362.JPG",
+    "folder": "ryansImageSet",
+    "size": 746302,
+    "type": "image/jpeg",
+    "checksum": "4e0334ab097d8c0d4844819b90dea0edf25b09ebe1041a2f28a59ec35c4c207b",
+    "url": "https://example.com/files/ryansImageSet/IMG_6362.JPG"
+  },
+  {
+    "name": "IMG_6334.JPG",
+    "folder": "ryansImageSet",
+    "size": 1462322,
+    "type": "image/jpeg",
+    "checksum": "19b2f13da0f35c16412b5ddeae36d1ebd6e7188908c1f674b344c499064f3d85",
+    "url": "https://example.com/files/ryansImageSet/IMG_6334.JPG"
+  },
+  {
+    "name": "74181377087__100E5661-8DC4-420E-8AF4-4D15D29427A9.fullsizerender.MOV",
+    "folder": "ryansImageSet",
+    "size": 2152718,
+    "type": "video/quicktime",
+    "checksum": "9397df176747929475db20053467c5f9c281e9eb8de29856285abf4ddc8d284d",
+    "url": "https://example.com/files/ryansImageSet/74181377087__100E5661-8DC4-420E-8AF4-4D15D29427A9.fullsizerender.MOV"
+  },
+  {
+    "name": "78BE6AB2-B6D8-4B7B-A7BB-ECE8146279EC.jpeg",
+    "folder": "ryansImageSet",
+    "size": 42911,
+    "type": "image/jpeg",
+    "checksum": "cee5b0ef5e8171602939b412f10e365f5603aa7a0d00ff45c5fe50e4de89ca22",
+    "url": "https://example.com/files/ryansImageSet/78BE6AB2-B6D8-4B7B-A7BB-ECE8146279EC.jpeg"
+  },
+  {
+    "name": "IMG_6348.JPG",
+    "folder": "ryansImageSet",
+    "size": 866381,
+    "type": "image/jpeg",
+    "checksum": "d458a7be8d3a5a03646a113d23bba89ef38c5e89bdbdf6bfd7628586109eb41e",
+    "url": "https://example.com/files/ryansImageSet/IMG_6348.JPG"
+  },
+  {
+    "name": "IMG_6330.JPG",
+    "folder": "ryansImageSet",
+    "size": 594733,
+    "type": "image/jpeg",
+    "checksum": "a152d67e0b2d061316892e20be5109d499f287229c2a3c2e503d59507ad84e05",
+    "url": "https://example.com/files/ryansImageSet/IMG_6330.JPG"
+  },
+  {
+    "name": "IMG_6356.MOV",
+    "folder": "ryansImageSet",
+    "size": 2271664,
+    "type": "video/quicktime",
+    "checksum": "dae0381329e7cc20766c843f367d6b35ce5027b503fcbde179305b8721f79cb3",
+    "url": "https://example.com/files/ryansImageSet/IMG_6356.MOV"
+  },
+  {
+    "name": "IMG_6391.JPG",
+    "folder": "ryansImageSet",
+    "size": 3068196,
+    "type": "image/jpeg",
+    "checksum": "508f76094024451be5347edd8241baf00d75ff97eb39ab3f10f0ddef49da4a84",
+    "url": "https://example.com/files/ryansImageSet/IMG_6391.JPG"
+  },
+  {
+    "name": "IMG_6404.JPG",
+    "folder": "ryansImageSet",
+    "size": 1813227,
+    "type": "image/jpeg",
+    "checksum": "d789e2c640fd89cc194bd448c6e18296224131fe0e3d87b415d880464dd6ee44",
+    "url": "https://example.com/files/ryansImageSet/IMG_6404.JPG"
+  },
+  {
+    "name": "IMG_6426.MOV",
+    "folder": "ryansImageSet",
+    "size": 3524910,
+    "type": "video/quicktime",
+    "checksum": "f1e2337dc63059b49eeefe184c84ac24f2e286067717aa23666f139bfbee3b9e",
+    "url": "https://example.com/files/ryansImageSet/IMG_6426.MOV"
+  },
+  {
+    "name": "IMG_6455.JPG",
+    "folder": "ryansImageSet",
+    "size": 6760263,
+    "type": "image/jpeg",
+    "checksum": "71b2777b7da1927dae561be78003af366b6101b470dfed3c7d2c96b85dd16cbb",
+    "url": "https://example.com/files/ryansImageSet/IMG_6455.JPG"
+  },
+  {
+    "name": "IMG_6405.MOV",
+    "folder": "ryansImageSet",
+    "size": 3647367,
+    "type": "video/quicktime",
+    "checksum": "7f0774ba2d406f092e5e8d570d0d436efd74d3dcac81a6ea9e76744a69202bfe",
+    "url": "https://example.com/files/ryansImageSet/IMG_6405.MOV"
+  },
+  {
+    "name": "IMG_6377.JPG",
+    "folder": "ryansImageSet",
+    "size": 166559,
+    "type": "image/jpeg",
+    "checksum": "27615f3236d820013401140d7179beca7157597bb285924e422c43d2715bb04f",
+    "url": "https://example.com/files/ryansImageSet/IMG_6377.JPG"
+  },
+  {
+    "name": "IMG_6374.JPG",
+    "folder": "ryansImageSet",
+    "size": 1121558,
+    "type": "image/jpeg",
+    "checksum": "084d1bd3244e3c7b57d2c665782e7d47d4e1d0ceb5f75a0a381fe0cd9c69dc13",
+    "url": "https://example.com/files/ryansImageSet/IMG_6374.JPG"
+  },
+  {
+    "name": "IMG_6379.JPG",
+    "folder": "ryansImageSet",
+    "size": 4589901,
+    "type": "image/jpeg",
+    "checksum": "e81efc9d3274c1f0973d40567bcfca5053d584360e4c3845d7be41255c74d2aa",
+    "url": "https://example.com/files/ryansImageSet/IMG_6379.JPG"
+  },
+  {
+    "name": "IMG_6449.JPG",
+    "folder": "ryansImageSet",
+    "size": 2817489,
+    "type": "image/jpeg",
+    "checksum": "adb5709f8a3004926110febad2daa5b2e9298da948ba61083dfa4b2f4910927c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6449.JPG"
+  },
+  {
+    "name": "B2D29B55-F8FF-4CCD-92CD-17575B6E399A.jpeg",
+    "folder": "ryansImageSet",
+    "size": 296112,
+    "type": "image/jpeg",
+    "checksum": "9983f30d97ff3fcde8fb6c2daee8eea08f9713d57272114ee50a8784de3a7cc2",
+    "url": "https://example.com/files/ryansImageSet/B2D29B55-F8FF-4CCD-92CD-17575B6E399A.jpeg"
+  },
+  {
+    "name": "IMG_6396.JPG",
+    "folder": "ryansImageSet",
+    "size": 1551685,
+    "type": "image/jpeg",
+    "checksum": "45a59cf5b9a77b051ba8207e1dd337905830ba206bdc2e6a44fe8b8af4b321b6",
+    "url": "https://example.com/files/ryansImageSet/IMG_6396.JPG"
+  },
+  {
+    "name": "IMG_6333.JPG",
+    "folder": "ryansImageSet",
+    "size": 441470,
+    "type": "image/jpeg",
+    "checksum": "33850e696d25fb33dd06ccea2b3cf91e2e652f3c726edf47ab77718910bc184f",
+    "url": "https://example.com/files/ryansImageSet/IMG_6333.JPG"
+  },
+  {
+    "name": "74181377087__100E5661-8DC4-420E-8AF4-4D15D29427A9.fullsizerender.JPG",
+    "folder": "ryansImageSet",
+    "size": 2665871,
+    "type": "image/jpeg",
+    "checksum": "a1a02736d30518f402905cae45c018eaef7274cc06ce8d76a5215582590c9bab",
+    "url": "https://example.com/files/ryansImageSet/74181377087__100E5661-8DC4-420E-8AF4-4D15D29427A9.fullsizerender.JPG"
+  },
+  {
+    "name": "IMG_6457.JPG",
+    "folder": "ryansImageSet",
+    "size": 6531254,
+    "type": "image/jpeg",
+    "checksum": "f95c6a4c4638b181432990da451560b62c5ef3a30d8940976acc8aa41891339d",
+    "url": "https://example.com/files/ryansImageSet/IMG_6457.JPG"
+  },
+  {
+    "name": "IMG_6360.MOV",
+    "folder": "ryansImageSet",
+    "size": 1312267,
+    "type": "video/quicktime",
+    "checksum": "a7986106709b3f26312471ee94a54b59443acf9706e144675754ed26d0ea5d3a",
+    "url": "https://example.com/files/ryansImageSet/IMG_6360.MOV"
+  },
+  {
+    "name": "IMG_6332.JPG",
+    "folder": "ryansImageSet",
+    "size": 572295,
+    "type": "image/jpeg",
+    "checksum": "689c984dab8bd519cffd38d6d680743bac27a6b13150a5b31143dc87615fc70c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6332.JPG"
+  },
+  {
+    "name": "IMG_6360.JPG",
+    "folder": "ryansImageSet",
+    "size": 2332566,
+    "type": "image/jpeg",
+    "checksum": "af8edd9b4e29993fc1f0a27f886617c9d704d2f748038cb165b28c4bcb61dfcc",
+    "url": "https://example.com/files/ryansImageSet/IMG_6360.JPG"
+  },
+  {
+    "name": "IMG_6345.JPG",
+    "folder": "ryansImageSet",
+    "size": 1332932,
+    "type": "image/jpeg",
+    "checksum": "3a4eca25d7d28032d23eb75c1b50039bc4d7b5ad4abbf30a3a41558dae82f482",
+    "url": "https://example.com/files/ryansImageSet/IMG_6345.JPG"
+  },
+  {
+    "name": "IMG_6421.JPG",
+    "folder": "ryansImageSet",
+    "size": 6179797,
+    "type": "image/jpeg",
+    "checksum": "08eafe76ec89a3a555d01a845c0c046e7e13377a101efc87f626ae903aa31f2c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6421.JPG"
+  },
+  {
+    "name": "IMG_6422.MOV",
+    "folder": "ryansImageSet",
+    "size": 2199461,
+    "type": "video/quicktime",
+    "checksum": "a256ee7a278472661f45eef4a05c5624e7cf24dad5845b190e90cb40adcdb424",
+    "url": "https://example.com/files/ryansImageSet/IMG_6422.MOV"
+  },
+  {
+    "name": "IMG_6367.JPG",
+    "folder": "ryansImageSet",
+    "size": 832205,
+    "type": "image/jpeg",
+    "checksum": "788e1ceb76daa437740a095b1a96048fcabe322a6aed139fbeac1da10494f301",
+    "url": "https://example.com/files/ryansImageSet/IMG_6367.JPG"
+  },
+  {
+    "name": "IMG_6420.MOV",
+    "folder": "ryansImageSet",
+    "size": 4679243,
+    "type": "video/quicktime",
+    "checksum": "465b8e266278604e2851a936e3ca9633dba82f2f38912a67c4084f2d6ea3a99c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6420.MOV"
+  },
+  {
+    "name": "IMG_6454.JPG",
+    "folder": "ryansImageSet",
+    "size": 6630150,
+    "type": "image/jpeg",
+    "checksum": "99699adbb0e270090671799cbfa26fd192a9767c33e0c3775deebf15199e227d",
+    "url": "https://example.com/files/ryansImageSet/IMG_6454.JPG"
+  },
+  {
+    "name": "IMG_6394.JPG",
+    "folder": "ryansImageSet",
+    "size": 2323809,
+    "type": "image/jpeg",
+    "checksum": "a37717d3fc309e8b16269c51e61642999f0ca399259833b3d809d9beee29952f",
+    "url": "https://example.com/files/ryansImageSet/IMG_6394.JPG"
+  },
+  {
+    "name": "IMG_6437.JPG",
+    "folder": "ryansImageSet",
+    "size": 6281453,
+    "type": "image/jpeg",
+    "checksum": "cb5aa8ae9219f03c1d3d74967089fafbba044fff49becbff7d93ffef0e2b413a",
+    "url": "https://example.com/files/ryansImageSet/IMG_6437.JPG"
+  },
+  {
+    "name": "IMG_6413.JPG",
+    "folder": "ryansImageSet",
+    "size": 2733730,
+    "type": "image/jpeg",
+    "checksum": "38168349686874dd3d7faf865408fb74d0aec0dcd3eb7ea6460e5e1a093ae7bd",
+    "url": "https://example.com/files/ryansImageSet/IMG_6413.JPG"
+  },
+  {
+    "name": "IMG_6420.JPG",
+    "folder": "ryansImageSet",
+    "size": 7817712,
+    "type": "image/jpeg",
+    "checksum": "fd66ad0b3d2fcf8a7a5c8d05cbba1aa41f212584325584aef4819379afb3a980",
+    "url": "https://example.com/files/ryansImageSet/IMG_6420.JPG"
+  },
+  {
+    "name": "IMG_6385.JPG",
+    "folder": "ryansImageSet",
+    "size": 3394704,
+    "type": "image/jpeg",
+    "checksum": "addc9c672d42305ff43466f77950365cd455a13acff1ebd16fe69a2fedfebb72",
+    "url": "https://example.com/files/ryansImageSet/IMG_6385.JPG"
+  },
+  {
+    "name": "IMG_6407.JPG",
+    "folder": "ryansImageSet",
+    "size": 4090169,
+    "type": "image/jpeg",
+    "checksum": "c253caa1ec70138a1108ef2b05e4d3734408615e597da0137e8861ef67383119",
+    "url": "https://example.com/files/ryansImageSet/IMG_6407.JPG"
+  },
+  {
+    "name": "IMG_6406.MOV",
+    "folder": "ryansImageSet",
+    "size": 1404763,
+    "type": "video/quicktime",
+    "checksum": "1ea7c977e3abf8f85b767772d7243a6d6619473f85c4875630dd92751ffd75eb",
+    "url": "https://example.com/files/ryansImageSet/IMG_6406.MOV"
+  },
+  {
+    "name": "IMG_6422.JPG",
+    "folder": "ryansImageSet",
+    "size": 5538944,
+    "type": "image/jpeg",
+    "checksum": "57794574425ce0a83fab89737e59a450f311e9e1f3e1d69a08e9d6bdd9766d23",
+    "url": "https://example.com/files/ryansImageSet/IMG_6422.JPG"
+  },
+  {
+    "name": "IMG_6426.JPG",
+    "folder": "ryansImageSet",
+    "size": 2142578,
+    "type": "image/jpeg",
+    "checksum": "f6e25ea4730ffb7be3eb18a805c53bd60790cbc7f6ff6a5121e6675dee5991b6",
+    "url": "https://example.com/files/ryansImageSet/IMG_6426.JPG"
+  },
+  {
+    "name": "IMG_6340.JPG",
+    "folder": "ryansImageSet",
+    "size": 992151,
+    "type": "image/jpeg",
+    "checksum": "65390ef6ed0a972abeea9948a71ed7b47a64ef9466915a83829c8b27ff9cf62c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6340.JPG"
+  },
+  {
+    "name": "IMG_6450.JPG",
+    "folder": "ryansImageSet",
+    "size": 6737711,
+    "type": "image/jpeg",
+    "checksum": "80f2a279e51a66ad523b6196b4c926f165ea15c173ab595d961924d831881f2b",
+    "url": "https://example.com/files/ryansImageSet/IMG_6450.JPG"
+  },
+  {
+    "name": "IMG_6390.JPG",
+    "folder": "ryansImageSet",
+    "size": 1599018,
+    "type": "image/jpeg",
+    "checksum": "53c9e395b90f9bf8d9e7af4779bdfc3ebe4a195a6c085c9e99f3024da1c338c5",
+    "url": "https://example.com/files/ryansImageSet/IMG_6390.JPG"
+  },
+  {
+    "name": "IMG_6380.JPG",
+    "folder": "ryansImageSet",
+    "size": 3470222,
+    "type": "image/jpeg",
+    "checksum": "69ea0e8f2126c6d9424baaa3856049d1eefc0782c6eb7906c2904756c826b522",
+    "url": "https://example.com/files/ryansImageSet/IMG_6380.JPG"
+  },
+  {
+    "name": "IMG_6458.MOV",
+    "folder": "ryansImageSet",
+    "size": 2578418,
+    "type": "video/quicktime",
+    "checksum": "f0f5883d914679640ad4863c60d5e36c4baa2ab98b4762c2edf15dbd5ddd7edb",
+    "url": "https://example.com/files/ryansImageSet/IMG_6458.MOV"
+  },
+  {
+    "name": "IMG_6387.JPG",
+    "folder": "ryansImageSet",
+    "size": 3342066,
+    "type": "image/jpeg",
+    "checksum": "8b790ad78af88f143859dee8d17580bea321f0005d2388d1dc5a8e84ec414375",
+    "url": "https://example.com/files/ryansImageSet/IMG_6387.JPG"
+  },
+  {
+    "name": "IMG_6398.JPG",
+    "folder": "ryansImageSet",
+    "size": 2422196,
+    "type": "image/jpeg",
+    "checksum": "7df328c60bf54c79f7ddacf05440b5cf2f9fe5db4f69c8398cd839b3f90a9c32",
+    "url": "https://example.com/files/ryansImageSet/IMG_6398.JPG"
+  },
+  {
+    "name": "IMG_6364.JPG",
+    "folder": "ryansImageSet",
+    "size": 750491,
+    "type": "image/jpeg",
+    "checksum": "8e03e384b5776306d79950ce157c621f8c5bf068f67ab2a99c0b049c90e8d10b",
+    "url": "https://example.com/files/ryansImageSet/IMG_6364.JPG"
+  },
+  {
+    "name": "IMG_6346.JPG",
+    "folder": "ryansImageSet",
+    "size": 1423514,
+    "type": "image/jpeg",
+    "checksum": "d16f2fa57fa390a90893d2ae88f4a6308b584737ec0643700997e01a11a1b1ae",
+    "url": "https://example.com/files/ryansImageSet/IMG_6346.JPG"
+  },
+  {
+    "name": "IMG_6343.JPG",
+    "folder": "ryansImageSet",
+    "size": 1616674,
+    "type": "image/jpeg",
+    "checksum": "d31b5d437ea3dcc6df009b5be2bd7b6df526889815f491865080a884be957977",
+    "url": "https://example.com/files/ryansImageSet/IMG_6343.JPG"
+  },
+  {
+    "name": "IMG_6429.JPG",
+    "folder": "ryansImageSet",
+    "size": 4105079,
+    "type": "image/jpeg",
+    "checksum": "25b7ae203a0eb99258b79ab07317173b83a9b8dc79274f4643dc5724a2dc7cbb",
+    "url": "https://example.com/files/ryansImageSet/IMG_6429.JPG"
+  },
+  {
+    "name": "IMG_6349.JPG",
+    "folder": "ryansImageSet",
+    "size": 897499,
+    "type": "image/jpeg",
+    "checksum": "2bbda729c920e1d5fe3edc3c1cd0d437786ebe834040b43b5ae88978dfe24880",
+    "url": "https://example.com/files/ryansImageSet/IMG_6349.JPG"
+  },
+  {
+    "name": "IMG_6405.JPG",
+    "folder": "ryansImageSet",
+    "size": 2588344,
+    "type": "image/jpeg",
+    "checksum": "8e347188fcca39db4ccb750c3f6d21cbdee890f32a5a0f5af28b6ae3d18eb94c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6405.JPG"
+  },
+  {
+    "name": "IMG_6366.JPG",
+    "folder": "ryansImageSet",
+    "size": 789520,
+    "type": "image/jpeg",
+    "checksum": "258a291bc06e749c8872d2b7d290dbb44fc5af655653dfbad4bbca91cab8d4b1",
+    "url": "https://example.com/files/ryansImageSet/IMG_6366.JPG"
+  },
+  {
+    "name": "IMG_6447.JPG",
+    "folder": "ryansImageSet",
+    "size": 4923105,
+    "type": "image/jpeg",
+    "checksum": "6c2ecce453de73bdaad8b42bd208ab5dc30fa2c2a8e5ea6f685e14d5ee87162c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6447.JPG"
+  },
+  {
+    "name": "IMG_6388.JPG",
+    "folder": "ryansImageSet",
+    "size": 3006418,
+    "type": "image/jpeg",
+    "checksum": "586e4e77c2fbb22553261c5f2026bbe0ff6c9317a78aaaa2225ea10cc5e9db88",
+    "url": "https://example.com/files/ryansImageSet/IMG_6388.JPG"
+  },
+  {
+    "name": "D3F4F8EB-2686-4A4D-8534-C3C0528D03B8.jpeg",
+    "folder": "ryansImageSet",
+    "size": 59990,
+    "type": "image/jpeg",
+    "checksum": "eb00de96669f761afb73cbf9b07e4f74d807fce5601f707591a544871a37c29f",
+    "url": "https://example.com/files/ryansImageSet/D3F4F8EB-2686-4A4D-8534-C3C0528D03B8.jpeg"
+  },
+  {
+    "name": "06EAAF4F-B907-4ABA-A637-B78475B5FC4C.jpeg",
+    "folder": "ryansImageSet",
+    "size": 101483,
+    "type": "image/jpeg",
+    "checksum": "80a5742c59dafaf85f2239be9f40a1e51b5beffa1b2dd90872f224989082f3aa",
+    "url": "https://example.com/files/ryansImageSet/06EAAF4F-B907-4ABA-A637-B78475B5FC4C.jpeg"
+  },
+  {
+    "name": "IMG_6351.JPG",
+    "folder": "ryansImageSet",
+    "size": 1437859,
+    "type": "image/jpeg",
+    "checksum": "1d7f29df8ab7e2af6f92f56cd43c28edd5f0a0943887034c81079bdb494edc67",
+    "url": "https://example.com/files/ryansImageSet/IMG_6351.JPG"
+  },
+  {
+    "name": "IMG_6371.JPG",
+    "folder": "ryansImageSet",
+    "size": 888443,
+    "type": "image/jpeg",
+    "checksum": "5af86f5326705cec8f9a83bed0ca7ee12a27825b6df9d0d8867dd4a182d0aa6d",
+    "url": "https://example.com/files/ryansImageSet/IMG_6371.JPG"
+  },
+  {
+    "name": "IMG_6358.MOV",
+    "folder": "ryansImageSet",
+    "size": 2920678,
+    "type": "video/quicktime",
+    "checksum": "8573f5c14c1e7c6950134d2e45605e5e6aa911585ef23fda37905ae6c156fb83",
+    "url": "https://example.com/files/ryansImageSet/IMG_6358.MOV"
+  },
+  {
+    "name": "IMG_6442.MOV",
+    "folder": "ryansImageSet",
+    "size": 11457016,
+    "type": "video/quicktime",
+    "checksum": "aa4c65b32e462fa1403f00a9a7f709e2649b68367a153396f22da764da09a49f",
+    "url": "https://example.com/files/ryansImageSet/IMG_6442.MOV"
+  },
+  {
+    "name": "IMG_0397.jpeg",
+    "folder": "ryansImageSet",
+    "size": 317492,
+    "type": "image/jpeg",
+    "checksum": "a290aca652820368eb5c14f6e648363788d346ae85f14f4edd99c5016015779c",
+    "url": "https://example.com/files/ryansImageSet/IMG_0397.jpeg"
+  },
+  {
+    "name": "IMG_6354.JPG",
+    "folder": "ryansImageSet",
+    "size": 674656,
+    "type": "image/jpeg",
+    "checksum": "95857a7a098a8ac87c7b6603600446e6d678f6f423b7c55807a6bf10ef763f6a",
+    "url": "https://example.com/files/ryansImageSet/IMG_6354.JPG"
+  },
+  {
+    "name": "IMG_6428.MOV",
+    "folder": "ryansImageSet",
+    "size": 3106960,
+    "type": "video/quicktime",
+    "checksum": "3631d3f86b28889dc72b36ed762e5ad8063673a01a010656159e1252e3a2357c",
+    "url": "https://example.com/files/ryansImageSet/IMG_6428.MOV"
+  },
+  {
+    "name": "b&t_TowingOwner.png",
+    "folder": ".",
+    "size": 1046579,
+    "type": "image/png",
+    "checksum": "9176643f3680d0abe70c83735a7e21d3d6786bbb3f587ae4a5db1a8aae43637d",
+    "url": "https://example.com/files/b&t_TowingOwner.png"
+  },
+  {
+    "name": "AdamMusgrove_202407041734_1274_27294709-2.json-metadata.pdf",
+    "folder": "ProofOfEvidenceTampering",
+    "size": 273087,
+    "type": "application/pdf",
+    "checksum": "8d8c43958e2a6ecbbbe2eb3c620f141d03d915d1ea046c02ab15ef5e0d7fd79e",
+    "url": "https://example.com/files/ProofOfEvidenceTampering/AdamMusgrove_202407041734_1274_27294709-2.json-metadata.pdf"
+  },
+  {
+    "name": "MULTIPLEForensicsIndicationsofTampering20240704_173916.json-metadata.pdf",
+    "folder": "ProofOfEvidenceTampering",
+    "size": 284631,
+    "type": "application/pdf",
+    "checksum": "3c57a95647d1d96bd5ebdf87db82d949e06c96c38cdc4e4e0aee8d1ab58f37f8",
+    "url": "https://example.com/files/ProofOfEvidenceTampering/MULTIPLEForensicsIndicationsofTampering20240704_173916.json-metadata.pdf"
+  },
+  {
+    "name": "DropBoxEvidenceTamperingScreen1.jpg",
+    "folder": "ProofOfEvidenceTampering",
+    "size": 1024849,
+    "type": "image/jpeg",
+    "checksum": "2ce6ff9ffc1df58d426d37ced21d3de079264a270f4d7e9b0183ba3a5f0a675d",
+    "url": "https://example.com/files/ProofOfEvidenceTampering/DropBoxEvidenceTamperingScreen1.jpg"
+  },
+  {
+    "name": "dropboxVideoPropertiesScreenshot.png",
+    "folder": "ProofOfEvidenceTampering",
+    "size": 2347048,
+    "type": "image/png",
+    "checksum": "9b5409b549bf8092aa062e0359a00c83a47255901fbfbb4d75954a2059967f4f",
+    "url": "https://example.com/files/ProofOfEvidenceTampering/dropboxVideoPropertiesScreenshot.png"
+  },
+  {
+    "name": "CopyingOverDashcamEvidence.png",
+    "folder": "ProofOfEvidenceTampering",
+    "size": 1206240,
+    "type": "image/png",
+    "checksum": "72f29f3d0f601a6287431a917de22968280a82045c0e5fbd1cb79d1cc50b77d5",
+    "url": "https://example.com/files/ProofOfEvidenceTampering/CopyingOverDashcamEvidence.png"
+  },
+  {
+    "name": "videoHandle.png",
+    "folder": "ProofOfEvidenceTampering",
+    "size": 1027420,
+    "type": "image/png",
+    "checksum": "44ddb9be23332916e0d548cf9a67602f9c5ccc7c1258a48cd8b082bb04bce489",
+    "url": "https://example.com/files/ProofOfEvidenceTampering/videoHandle.png"
+  },
+  {
+    "name": "tamperedCADFile.png",
+    "folder": "Tampered-911",
+    "size": 4051245,
+    "type": "image/png",
+    "checksum": "ca93b69f8b513313f586d6c9227b32a804b5b31c31fb588f5d49f64726287554",
+    "url": "https://example.com/files/Tampered-911/tamperedCADFile.png"
+  },
+  {
+    "name": "JustinTitusAssignedCouncilProvidedInitialPoliceReportsScan044.png",
+    "folder": ".",
+    "size": 246112,
+    "type": "image/png",
+    "checksum": "45d9a7db8c63e8dba26cfa102ef9ed0456c295bf8897f81787852332c5a7a256",
+    "url": "https://example.com/files/JustinTitusAssignedCouncilProvidedInitialPoliceReportsScan044.png"
+  },
+  {
+    "name": "Screenshot_2025-09-03_at_5.11.28 PM.png",
+    "folder": ".",
+    "size": 79468,
+    "type": "image/png",
+    "checksum": "0b460bd50bbc849a058293bcf746fe55121470e7cd5df12a934a8f5c4b4fed92",
+    "url": "https://example.com/files/Screenshot_2025-09-03_at_5.11.28 PM.png"
+  },
+  {
+    "name": "24C06401.wav",
+    "folder": ".",
+    "size": 39462446,
+    "type": "audio/x-wav",
+    "checksum": "5a4d450ff408711ed6b7369ee7d590a3f73efe0b8cce166dabf7af54dd4f6482",
+    "url": "https://example.com/files/24C06401.wav"
   }
 ]
